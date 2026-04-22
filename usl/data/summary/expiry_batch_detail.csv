@@ -1,0 +1,392 @@
+batch_no,medicine_id,medicine_name,category,supplier_name,purchase_date,expiry_date,days_to_expiry,expiry_bucket,stock_in_hand,avg_daily_units_sold,projected_units_before_expiry,estimated_units_at_risk,estimated_expiry_risk_value
+MED079-B03,MED079,Calvita 79,Hormonal,Prime MedSupply,2025-06-03,2025-11-22,-151,Expired,134,2.92,0.00,134.00,32248.44
+MED059-B02,MED059,Calvita 59,Hormonal,Wellroute Healthcare,2025-04-11,2025-10-13,-191,Expired,77,3.98,0.00,77.00,13617.45
+MED039-B02,MED039,Calvita 39,Hormonal,Wellroute Healthcare,2025-08-14,2026-04-14,-8,Expired,25,3.79,0.00,25.00,8267.50
+MED044-B04,MED044,Amorid 44,Cardiac,CareHub Distributors,2025-07-14,2025-12-25,-118,Expired,57,5.69,0.00,57.00,1960.23
+MED001-B04,MED001,Paracure 1,Pain Relief,Apex Wholesale,2025-07-29,2026-01-19,-93,Expired,0,4.77,0.00,0.00,0.00
+MED002-B02,MED002,Ibuplus 2,Antibiotic,Apex Wholesale,2025-06-01,2026-02-21,-60,Expired,0,5.58,0.00,0.00,0.00
+MED004-B01,MED004,Amorid 4,Cardiac,MediBridge Supply,2025-05-21,2026-02-04,-77,Expired,0,3.58,0.00,0.00,0.00
+MED006-B02,MED006,Glusure 6,Allergy,Apex Wholesale,2025-07-02,2026-04-08,-14,Expired,0,3.58,0.00,0.00,0.00
+MED007-B03,MED007,Cardaid 7,Vitamins,Urban Pharma Chain,2025-06-25,2026-01-24,-88,Expired,0,5.14,0.00,0.00,0.00
+MED008-B02,MED008,Omefast 8,Respiratory,CareHub Distributors,2025-04-14,2026-01-31,-81,Expired,0,3.57,0.00,0.00,0.00
+MED009-B01,MED009,Pantosafe 9,Hormonal,Prime MedSupply,2025-05-08,2026-02-17,-64,Expired,0,3.94,0.00,0.00,0.00
+MED009-B02,MED009,Pantosafe 9,Hormonal,CareHub Distributors,2025-08-08,2026-03-29,-24,Expired,0,3.94,0.00,0.00,0.00
+MED012-B01,MED012,Vitawell 12,Antibiotic,CareHub Distributors,2025-04-21,2025-11-24,-149,Expired,0,4.84,0.00,0.00,0.00
+MED012-B03,MED012,Vitawell 12,Antibiotic,Wellroute Healthcare,2025-06-04,2025-12-24,-119,Expired,0,4.84,0.00,0.00,0.00
+MED013-B03,MED013,B12calm 13,Diabetes,Prime MedSupply,2025-07-20,2026-04-21,-1,Expired,0,3.12,0.00,0.00,0.00
+MED016-B04,MED016,Zinnil 16,Allergy,Apex Wholesale,2025-03-27,2025-11-04,-169,Expired,0,2.48,0.00,0.00,0.00
+MED017-B03,MED017,Thyrocare 17,Vitamins,Wellroute Healthcare,2025-06-01,2026-04-17,-5,Expired,0,3.92,0.00,0.00,0.00
+MED018-B03,MED018,Neurorise 18,Respiratory,Wellroute Healthcare,2025-03-25,2026-02-19,-62,Expired,0,4.55,0.00,0.00,0.00
+MED020-B03,MED020,Levboost 20,Neurology,Apex Wholesale,2025-06-09,2026-03-20,-33,Expired,0,3.68,0.00,0.00,0.00
+MED025-B03,MED025,Aziair 25,Gastro,CareHub Distributors,2025-06-04,2026-01-20,-92,Expired,0,3.37,0.00,0.00,0.00
+MED027-B03,MED027,Cardaid 27,Vitamins,Wellroute Healthcare,2025-08-31,2026-01-28,-84,Expired,0,5.26,0.00,0.00,0.00
+MED028-B05,MED028,Omefast 28,Respiratory,Prime MedSupply,2025-04-06,2026-01-03,-109,Expired,0,5.38,0.00,0.00,0.00
+MED029-B02,MED029,Pantosafe 29,Hormonal,Urban Pharma Chain,2025-08-17,2026-02-12,-69,Expired,0,2.71,0.00,0.00,0.00
+MED030-B05,MED030,Cetimax 30,Neurology,CareHub Distributors,2025-06-21,2025-12-18,-125,Expired,0,4.42,0.00,0.00,0.00
+MED030-B02,MED030,Cetimax 30,Neurology,Wellroute Healthcare,2025-05-15,2025-12-28,-115,Expired,0,4.42,0.00,0.00,0.00
+MED037-B02,MED037,Thyrocare 37,Vitamins,MediBridge Supply,2025-04-08,2026-02-10,-71,Expired,0,4.59,0.00,0.00,0.00
+MED039-B03,MED039,Calvita 39,Hormonal,Prime MedSupply,2025-03-02,2026-01-30,-82,Expired,0,3.79,0.00,0.00,0.00
+MED043-B03,MED043,Cefizen 43,Diabetes,Prime MedSupply,2025-06-04,2025-11-26,-147,Expired,0,3.59,0.00,0.00,0.00
+MED044-B03,MED044,Amorid 44,Cardiac,MediBridge Supply,2025-03-22,2025-11-26,-147,Expired,0,5.69,0.00,0.00,0.00
+MED045-B05,MED045,Aziair 45,Gastro,Prime MedSupply,2025-07-08,2025-12-07,-136,Expired,0,4.96,0.00,0.00,0.00
+MED045-B04,MED045,Aziair 45,Gastro,CareHub Distributors,2025-07-20,2026-02-28,-53,Expired,0,4.96,0.00,0.00,0.00
+MED046-B01,MED046,Glusure 46,Allergy,Prime MedSupply,2025-06-04,2025-11-11,-162,Expired,0,2.88,0.00,0.00,0.00
+MED052-B02,MED052,Vitawell 52,Antibiotic,Prime MedSupply,2025-05-10,2026-04-04,-18,Expired,0,5.73,0.00,0.00,0.00
+MED054-B04,MED054,Coughflow 54,Cardiac,Prime MedSupply,2025-03-16,2026-01-05,-107,Expired,0,4.24,0.00,0.00,0.00
+MED056-B02,MED056,Zinnil 56,Allergy,Prime MedSupply,2025-08-25,2026-02-26,-55,Expired,0,4.68,0.00,0.00,0.00
+MED056-B03,MED056,Zinnil 56,Allergy,Prime MedSupply,2025-03-02,2026-04-17,-5,Expired,0,4.68,0.00,0.00,0.00
+MED057-B02,MED057,Thyrocare 57,Vitamins,Urban Pharma Chain,2025-06-13,2026-03-09,-44,Expired,0,2.29,0.00,0.00,0.00
+MED058-B01,MED058,Neurorise 58,Respiratory,CareHub Distributors,2025-08-30,2026-02-04,-77,Expired,0,3.45,0.00,0.00,0.00
+MED060-B04,MED060,Levboost 60,Neurology,MediBridge Supply,2025-08-16,2026-04-11,-11,Expired,0,3.20,0.00,0.00,0.00
+MED068-B03,MED068,Omefast 68,Respiratory,MediBridge Supply,2025-08-02,2026-01-23,-89,Expired,0,4.01,0.00,0.00,0.00
+MED068-B02,MED068,Omefast 68,Respiratory,Urban Pharma Chain,2025-03-13,2026-04-02,-20,Expired,0,4.01,0.00,0.00,0.00
+MED069-B04,MED069,Pantosafe 69,Hormonal,Apex Wholesale,2025-06-27,2026-04-17,-5,Expired,0,2.90,0.00,0.00,0.00
+MED072-B03,MED072,Vitawell 72,Antibiotic,Urban Pharma Chain,2025-04-23,2026-04-10,-12,Expired,0,2.58,0.00,0.00,0.00
+MED073-B03,MED073,B12calm 73,Diabetes,Wellroute Healthcare,2025-03-01,2025-12-22,-121,Expired,0,2.25,0.00,0.00,0.00
+MED078-B03,MED078,Neurorise 78,Respiratory,CareHub Distributors,2025-04-16,2025-10-08,-196,Expired,0,4.08,0.00,0.00,0.00
+MED080-B01,MED080,Levboost 80,Neurology,MediBridge Supply,2025-04-24,2025-11-28,-145,Expired,0,3.76,0.00,0.00,0.00
+MED081-B02,MED081,Paracure 81,Pain Relief,Apex Wholesale,2025-11-17,2026-04-21,-1,Expired,0,6.61,0.00,0.00,0.00
+MED083-B03,MED083,Cefizen 83,Diabetes,Apex Wholesale,2025-04-29,2026-01-14,-98,Expired,0,5.74,0.00,0.00,0.00
+MED085-B02,MED085,Aziair 85,Gastro,Prime MedSupply,2025-03-16,2026-01-07,-105,Expired,0,4.00,0.00,0.00,0.00
+MED086-B02,MED086,Glusure 86,Allergy,Prime MedSupply,2025-03-24,2025-12-29,-114,Expired,0,3.02,0.00,0.00,0.00
+MED087-B03,MED087,Cardaid 87,Vitamins,CareHub Distributors,2025-09-08,2026-03-10,-43,Expired,0,3.19,0.00,0.00,0.00
+MED087-B01,MED087,Cardaid 87,Vitamins,CareHub Distributors,2025-08-08,2026-04-02,-20,Expired,0,3.19,0.00,0.00,0.00
+MED091-B03,MED091,Monttide 91,Pain Relief,CareHub Distributors,2025-04-17,2025-11-08,-165,Expired,0,5.32,0.00,0.00,0.00
+MED091-B04,MED091,Monttide 91,Pain Relief,Prime MedSupply,2025-05-16,2026-01-20,-92,Expired,0,5.32,0.00,0.00,0.00
+MED095-B03,MED095,Bronmed 95,Gastro,Urban Pharma Chain,2025-04-15,2025-12-01,-142,Expired,0,4.87,0.00,0.00,0.00
+MED096-B03,MED096,Zinnil 96,Allergy,Wellroute Healthcare,2025-05-14,2026-02-25,-56,Expired,0,4.56,0.00,0.00,0.00
+MED097-B01,MED097,Thyrocare 97,Vitamins,MediBridge Supply,2025-07-07,2025-12-05,-138,Expired,0,3.30,0.00,0.00,0.00
+MED098-B02,MED098,Neurorise 98,Respiratory,MediBridge Supply,2025-07-27,2026-03-24,-29,Expired,0,3.61,0.00,0.00,0.00
+MED018-B05,MED018,Neurorise 18,Respiratory,MediBridge Supply,2025-10-08,2026-05-18,26,0-30 days,256,4.55,118.30,137.70,51959.72
+MED099-B01,MED099,Calvita 99,Hormonal,CareHub Distributors,2025-11-08,2026-04-26,4,0-30 days,69,3.22,12.88,56.12,1207.14
+MED003-B03,MED003,Cefizen 3,Diabetes,Apex Wholesale,2025-04-26,2026-05-02,10,0-30 days,0,2.32,23.20,0.00,0.00
+MED005-B02,MED005,Aziair 5,Gastro,Prime MedSupply,2025-10-16,2026-05-11,19,0-30 days,0,3.96,75.24,0.00,0.00
+MED038-B05,MED038,Neurorise 38,Respiratory,MediBridge Supply,2025-10-23,2026-05-02,10,0-30 days,0,3.05,30.50,0.00,0.00
+MED040-B04,MED040,Levboost 40,Neurology,Wellroute Healthcare,2025-11-13,2026-05-19,27,0-30 days,0,3.33,89.91,0.00,0.00
+MED046-B02,MED046,Glusure 46,Allergy,Prime MedSupply,2025-09-20,2026-05-20,28,0-30 days,0,2.88,80.64,0.00,0.00
+MED047-B03,MED047,Cardaid 47,Vitamins,Prime MedSupply,2025-05-28,2026-05-03,11,0-30 days,0,2.36,25.96,0.00,0.00
+MED065-B03,MED065,Aziair 65,Gastro,CareHub Distributors,2025-11-15,2026-05-19,27,0-30 days,0,3.67,99.09,0.00,0.00
+MED067-B05,MED067,Cardaid 67,Vitamins,Apex Wholesale,2025-10-22,2026-05-07,15,0-30 days,0,3.57,53.55,0.00,0.00
+MED090-B04,MED090,Cetimax 90,Neurology,Wellroute Healthcare,2025-04-14,2026-04-27,5,0-30 days,0,3.48,17.40,0.00,0.00
+MED093-B02,MED093,B12calm 93,Diabetes,Prime MedSupply,2025-08-20,2026-05-10,18,0-30 days,0,4.90,88.20,0.00,0.00
+MED029-B03,MED029,Pantosafe 29,Hormonal,Wellroute Healthcare,2025-07-12,2026-06-20,59,31-60 days,411,2.71,159.89,251.11,86640.48
+MED009-B03,MED009,Pantosafe 9,Hormonal,CareHub Distributors,2025-07-09,2026-06-13,52,31-60 days,403,3.94,204.88,198.12,33967.67
+MED001-B01,MED001,Paracure 1,Pain Relief,CareHub Distributors,2025-10-04,2026-05-26,34,31-60 days,0,4.77,162.18,0.00,0.00
+MED006-B01,MED006,Glusure 6,Allergy,Apex Wholesale,2025-08-25,2026-06-02,41,31-60 days,94,3.58,146.78,0.00,0.00
+MED028-B01,MED028,Omefast 28,Respiratory,CareHub Distributors,2025-09-19,2026-06-21,60,31-60 days,0,5.38,322.80,0.00,0.00
+MED043-B02,MED043,Cefizen 43,Diabetes,MediBridge Supply,2025-06-08,2026-05-26,34,31-60 days,0,3.59,122.06,0.00,0.00
+MED044-B01,MED044,Amorid 44,Cardiac,Urban Pharma Chain,2025-11-26,2026-06-11,50,31-60 days,0,5.69,284.50,0.00,0.00
+MED060-B03,MED060,Levboost 60,Neurology,Wellroute Healthcare,2025-10-28,2026-06-17,56,31-60 days,115,3.20,179.20,0.00,0.00
+MED076-B01,MED076,Zinnil 76,Allergy,Wellroute Healthcare,2025-08-08,2026-06-06,45,31-60 days,0,2.13,95.85,0.00,0.00
+MED084-B03,MED084,Amorid 84,Cardiac,CareHub Distributors,2025-12-16,2026-06-13,52,31-60 days,0,3.87,201.24,0.00,0.00
+MED092-B04,MED092,Vitawell 92,Antibiotic,MediBridge Supply,2025-09-22,2026-06-16,55,31-60 days,0,6.07,333.85,0.00,0.00
+MED059-B04,MED059,Calvita 59,Hormonal,Wellroute Healthcare,2025-12-01,2026-07-12,81,61-90 days,554,3.98,322.38,231.62,40962.00
+MED007-B02,MED007,Cardaid 7,Vitamins,Urban Pharma Chain,2025-05-07,2026-07-02,71,61-90 days,0,5.14,364.94,0.00,0.00
+MED010-B02,MED010,Cetimax 10,Neurology,MediBridge Supply,2025-06-28,2026-07-19,88,61-90 days,0,2.62,230.56,0.00,0.00
+MED015-B04,MED015,Bronmed 15,Gastro,Apex Wholesale,2025-11-28,2026-07-08,77,61-90 days,0,4.21,324.17,0.00,0.00
+MED017-B02,MED017,Thyrocare 17,Vitamins,MediBridge Supply,2025-06-29,2026-07-21,90,61-90 days,0,3.92,352.80,0.00,0.00
+MED024-B01,MED024,Amorid 24,Cardiac,CareHub Distributors,2025-10-11,2026-07-19,88,61-90 days,0,3.47,305.36,0.00,0.00
+MED033-B03,MED033,B12calm 33,Diabetes,Apex Wholesale,2025-10-18,2026-07-03,72,61-90 days,0,3.21,231.12,0.00,0.00
+MED036-B02,MED036,Zinnil 36,Allergy,Urban Pharma Chain,2025-03-10,2026-07-05,74,61-90 days,0,3.20,236.80,0.00,0.00
+MED050-B04,MED050,Cetimax 50,Neurology,CareHub Distributors,2025-12-14,2026-07-06,75,61-90 days,0,3.28,246.00,0.00,0.00
+MED059-B01,MED059,Calvita 59,Hormonal,Wellroute Healthcare,2025-04-06,2026-07-07,76,61-90 days,0,3.98,302.48,0.00,0.00
+MED062-B02,MED062,Ibuplus 62,Antibiotic,Prime MedSupply,2025-07-22,2026-07-10,79,61-90 days,0,4.54,358.66,0.00,0.00
+MED064-B01,MED064,Amorid 64,Cardiac,Urban Pharma Chain,2025-12-10,2026-07-07,76,61-90 days,0,3.73,283.48,0.00,0.00
+MED070-B04,MED070,Cetimax 70,Neurology,Apex Wholesale,2025-12-30,2026-06-24,63,61-90 days,0,3.76,236.88,0.00,0.00
+MED084-B01,MED084,Amorid 84,Cardiac,Apex Wholesale,2025-05-14,2026-07-09,78,61-90 days,0,3.87,301.86,0.00,0.00
+MED089-B01,MED089,Pantosafe 89,Hormonal,Apex Wholesale,2025-08-02,2026-07-01,70,61-90 days,0,3.88,271.60,0.00,0.00
+MED090-B01,MED090,Cetimax 90,Neurology,Prime MedSupply,2025-05-03,2026-06-27,66,61-90 days,0,3.48,229.68,0.00,0.00
+MED092-B02,MED092,Vitawell 92,Antibiotic,CareHub Distributors,2025-05-20,2026-07-04,73,61-90 days,0,6.07,443.11,0.00,0.00
+MED100-B02,MED100,Levboost 100,Neurology,Apex Wholesale,2025-12-16,2026-06-26,65,61-90 days,0,2.81,182.65,0.00,0.00
+MED055-B03,MED055,Bronmed 55,Gastro,Prime MedSupply,2026-04-09,2026-09-06,137,90+ days,736,3.05,417.85,318.15,90096.90
+MED010-B03,MED010,Cetimax 10,Neurology,Urban Pharma Chain,2026-02-03,2026-09-20,151,90+ days,797,2.62,395.62,401.38,76454.86
+MED089-B04,MED089,Pantosafe 89,Hormonal,MediBridge Supply,2026-03-05,2026-08-13,113,90+ days,648,3.88,438.44,209.56,74205.20
+MED014-B02,MED014,Coughflow 14,Cardiac,CareHub Distributors,2026-03-23,2026-10-04,165,90+ days,712,1.90,313.50,398.50,69869.01
+MED029-B01,MED029,Pantosafe 29,Hormonal,CareHub Distributors,2026-02-16,2026-09-27,158,90+ days,604,2.71,428.18,175.82,60663.17
+MED015-B05,MED015,Bronmed 15,Gastro,Apex Wholesale,2026-01-28,2026-09-30,161,90+ days,781,4.21,677.81,103.19,39080.12
+MED020-B04,MED020,Levboost 20,Neurology,Apex Wholesale,2026-03-02,2026-08-05,105,90+ days,661,3.68,386.40,274.60,26520.87
+MED001-B05,MED001,Paracure 1,Pain Relief,MediBridge Supply,2025-04-24,2026-08-26,126,90+ days,0,4.77,601.02,0.00,0.00
+MED001-B03,MED001,Paracure 1,Pain Relief,Apex Wholesale,2026-01-17,2027-03-31,343,90+ days,462,4.77,1636.11,0.00,0.00
+MED001-B02,MED001,Paracure 1,Pain Relief,CareHub Distributors,2026-02-16,2027-08-14,479,90+ days,362,4.77,2284.83,0.00,0.00
+MED002-B03,MED002,Ibuplus 2,Antibiotic,CareHub Distributors,2025-04-09,2026-08-09,109,90+ days,0,5.58,608.22,0.00,0.00
+MED002-B04,MED002,Ibuplus 2,Antibiotic,Prime MedSupply,2025-07-04,2026-09-11,142,90+ days,0,5.58,792.36,0.00,0.00
+MED002-B01,MED002,Ibuplus 2,Antibiotic,Prime MedSupply,2025-11-07,2027-04-11,354,90+ days,740,5.58,1975.32,0.00,0.00
+MED003-B01,MED003,Cefizen 3,Diabetes,Urban Pharma Chain,2025-12-21,2026-07-30,99,90+ days,0,2.32,229.68,0.00,0.00
+MED003-B02,MED003,Cefizen 3,Diabetes,MediBridge Supply,2026-02-12,2027-05-17,390,90+ days,162,2.32,904.80,0.00,0.00
+MED004-B03,MED004,Amorid 4,Cardiac,Wellroute Healthcare,2025-09-09,2026-09-21,152,90+ days,0,3.58,544.16,0.00,0.00
+MED004-B05,MED004,Amorid 4,Cardiac,Urban Pharma Chain,2026-01-23,2027-05-10,383,90+ days,291,3.58,1371.14,0.00,0.00
+MED004-B04,MED004,Amorid 4,Cardiac,Urban Pharma Chain,2026-02-25,2027-05-27,400,90+ days,600,3.58,1432.00,0.00,0.00
+MED004-B02,MED004,Amorid 4,Cardiac,CareHub Distributors,2026-03-29,2028-03-08,686,90+ days,417,3.58,2455.88,0.00,0.00
+MED005-B04,MED005,Aziair 5,Gastro,Urban Pharma Chain,2025-04-02,2027-01-06,259,90+ days,0,3.96,1025.64,0.00,0.00
+MED005-B03,MED005,Aziair 5,Gastro,Prime MedSupply,2025-10-02,2027-04-13,356,90+ days,0,3.96,1409.76,0.00,0.00
+MED005-B01,MED005,Aziair 5,Gastro,Prime MedSupply,2025-11-23,2027-04-17,360,90+ days,373,3.96,1425.60,0.00,0.00
+MED006-B04,MED006,Glusure 6,Allergy,Apex Wholesale,2026-03-07,2027-02-13,297,90+ days,712,3.58,1063.26,0.00,0.00
+MED006-B03,MED006,Glusure 6,Allergy,MediBridge Supply,2025-11-23,2027-04-29,372,90+ days,268,3.58,1331.76,0.00,0.00
+MED007-B04,MED007,Cardaid 7,Vitamins,Apex Wholesale,2025-06-23,2027-02-01,285,90+ days,0,5.14,1464.90,0.00,0.00
+MED007-B01,MED007,Cardaid 7,Vitamins,Apex Wholesale,2026-01-05,2027-03-25,337,90+ days,595,5.14,1732.18,0.00,0.00
+MED008-B01,MED008,Omefast 8,Respiratory,MediBridge Supply,2026-02-16,2026-08-25,125,90+ days,0,3.57,446.25,0.00,0.00
+MED008-B03,MED008,Omefast 8,Respiratory,Wellroute Healthcare,2025-07-25,2026-12-13,235,90+ days,0,3.57,838.95,0.00,0.00
+MED009-B04,MED009,Pantosafe 9,Hormonal,Wellroute Healthcare,2026-03-03,2027-06-09,413,90+ days,282,3.94,1627.22,0.00,0.00
+MED009-B05,MED009,Pantosafe 9,Hormonal,Wellroute Healthcare,2025-08-31,2027-07-29,463,90+ days,499,3.94,1824.22,0.00,0.00
+MED010-B01,MED010,Cetimax 10,Neurology,MediBridge Supply,2026-01-22,2027-08-07,472,90+ days,440,2.62,1236.64,0.00,0.00
+MED011-B03,MED011,Monttide 11,Pain Relief,Urban Pharma Chain,2025-11-13,2026-10-31,192,90+ days,0,3.03,581.76,0.00,0.00
+MED011-B05,MED011,Monttide 11,Pain Relief,Urban Pharma Chain,2025-12-02,2027-03-16,328,90+ days,0,3.03,993.84,0.00,0.00
+MED011-B02,MED011,Monttide 11,Pain Relief,MediBridge Supply,2026-01-08,2027-07-17,451,90+ days,828,3.03,1366.53,0.00,0.00
+MED011-B04,MED011,Monttide 11,Pain Relief,Apex Wholesale,2026-01-01,2027-10-08,534,90+ days,448,3.03,1618.02,0.00,0.00
+MED011-B01,MED011,Monttide 11,Pain Relief,Urban Pharma Chain,2026-03-28,2027-10-30,556,90+ days,537,3.03,1684.68,0.00,0.00
+MED012-B02,MED012,Vitawell 12,Antibiotic,Apex Wholesale,2025-10-18,2026-12-30,252,90+ days,0,4.84,1219.68,0.00,0.00
+MED013-B02,MED013,B12calm 13,Diabetes,Apex Wholesale,2026-01-30,2027-03-30,342,90+ days,296,3.12,1067.04,0.00,0.00
+MED013-B01,MED013,B12calm 13,Diabetes,Wellroute Healthcare,2025-10-12,2027-08-17,482,90+ days,0,3.12,1503.84,0.00,0.00
+MED013-B04,MED013,B12calm 13,Diabetes,Urban Pharma Chain,2026-04-03,2027-11-19,576,90+ days,731,3.12,1797.12,0.00,0.00
+MED014-B03,MED014,Coughflow 14,Cardiac,Apex Wholesale,2025-07-09,2026-08-10,110,90+ days,0,1.90,209.00,0.00,0.00
+MED014-B01,MED014,Coughflow 14,Cardiac,Wellroute Healthcare,2025-03-06,2026-11-05,197,90+ days,0,1.90,374.30,0.00,0.00
+MED015-B03,MED015,Bronmed 15,Gastro,CareHub Distributors,2026-01-06,2026-10-23,184,90+ days,272,4.21,774.64,0.00,0.00
+MED015-B01,MED015,Bronmed 15,Gastro,Urban Pharma Chain,2025-08-25,2026-11-24,216,90+ days,215,4.21,909.36,0.00,0.00
+MED015-B02,MED015,Bronmed 15,Gastro,CareHub Distributors,2026-02-02,2027-08-21,486,90+ days,554,4.21,2046.06,0.00,0.00
+MED016-B03,MED016,Zinnil 16,Allergy,Wellroute Healthcare,2025-11-03,2026-11-12,204,90+ days,0,2.48,505.92,0.00,0.00
+MED016-B01,MED016,Zinnil 16,Allergy,MediBridge Supply,2026-01-25,2027-05-27,400,90+ days,0,2.48,992.00,0.00,0.00
+MED016-B02,MED016,Zinnil 16,Allergy,Prime MedSupply,2026-03-21,2027-09-19,515,90+ days,355,2.48,1277.20,0.00,0.00
+MED017-B01,MED017,Thyrocare 17,Vitamins,MediBridge Supply,2026-01-22,2027-10-18,544,90+ days,254,3.92,2132.48,0.00,0.00
+MED018-B02,MED018,Neurorise 18,Respiratory,Apex Wholesale,2026-04-01,2026-09-21,152,90+ days,538,4.55,691.60,0.00,0.00
+MED018-B04,MED018,Neurorise 18,Respiratory,Prime MedSupply,2025-06-25,2027-02-16,300,90+ days,556,4.55,1365.00,0.00,0.00
+MED018-B01,MED018,Neurorise 18,Respiratory,Prime MedSupply,2026-04-08,2028-03-24,702,90+ days,560,4.55,3194.10,0.00,0.00
+MED019-B01,MED019,Calvita 19,Hormonal,MediBridge Supply,2025-09-04,2026-10-27,188,90+ days,0,1.79,336.52,0.00,0.00
+MED019-B04,MED019,Calvita 19,Hormonal,Urban Pharma Chain,2026-03-08,2026-12-08,230,90+ days,387,1.79,411.70,0.00,0.00
+MED019-B02,MED019,Calvita 19,Hormonal,Prime MedSupply,2026-03-24,2027-05-29,402,90+ days,677,1.79,719.58,0.00,0.00
+MED019-B03,MED019,Calvita 19,Hormonal,Wellroute Healthcare,2025-11-20,2027-07-15,449,90+ days,741,1.79,803.71,0.00,0.00
+MED020-B02,MED020,Levboost 20,Neurology,Wellroute Healthcare,2025-04-05,2027-01-15,268,90+ days,0,3.68,986.24,0.00,0.00
+MED020-B05,MED020,Levboost 20,Neurology,Wellroute Healthcare,2025-08-04,2027-02-12,296,90+ days,304,3.68,1089.28,0.00,0.00
+MED020-B01,MED020,Levboost 20,Neurology,Urban Pharma Chain,2025-10-15,2027-07-24,458,90+ days,796,3.68,1685.44,0.00,0.00
+MED021-B02,MED021,Paracure 21,Pain Relief,Urban Pharma Chain,2026-03-09,2026-08-31,131,90+ days,0,4.44,581.64,0.00,0.00
+MED021-B04,MED021,Paracure 21,Pain Relief,Urban Pharma Chain,2025-10-30,2026-09-06,137,90+ days,0,4.44,608.28,0.00,0.00
+MED021-B01,MED021,Paracure 21,Pain Relief,MediBridge Supply,2026-01-11,2027-04-13,356,90+ days,89,4.44,1580.64,0.00,0.00
+MED021-B03,MED021,Paracure 21,Pain Relief,Prime MedSupply,2025-08-25,2027-05-13,386,90+ days,0,4.44,1713.84,0.00,0.00
+MED021-B05,MED021,Paracure 21,Pain Relief,CareHub Distributors,2025-12-29,2027-11-26,583,90+ days,223,4.44,2588.52,0.00,0.00
+MED022-B01,MED022,Ibuplus 22,Antibiotic,Wellroute Healthcare,2026-02-22,2026-09-20,151,90+ days,0,3.28,495.28,0.00,0.00
+MED022-B02,MED022,Ibuplus 22,Antibiotic,MediBridge Supply,2026-01-10,2026-10-24,185,90+ days,0,3.28,606.80,0.00,0.00
+MED022-B04,MED022,Ibuplus 22,Antibiotic,Wellroute Healthcare,2025-03-27,2026-12-24,246,90+ days,0,3.28,806.88,0.00,0.00
+MED022-B03,MED022,Ibuplus 22,Antibiotic,Prime MedSupply,2025-12-19,2027-04-05,348,90+ days,0,3.28,1141.44,0.00,0.00
+MED023-B02,MED023,Cefizen 23,Diabetes,Urban Pharma Chain,2026-01-12,2026-07-26,95,90+ days,0,3.99,379.05,0.00,0.00
+MED023-B03,MED023,Cefizen 23,Diabetes,Apex Wholesale,2025-12-01,2026-08-06,106,90+ days,145,3.99,422.94,0.00,0.00
+MED023-B05,MED023,Cefizen 23,Diabetes,MediBridge Supply,2025-05-02,2026-11-22,214,90+ days,0,3.99,853.86,0.00,0.00
+MED023-B04,MED023,Cefizen 23,Diabetes,Urban Pharma Chain,2026-02-10,2027-10-04,530,90+ days,771,3.99,2114.70,0.00,0.00
+MED023-B01,MED023,Cefizen 23,Diabetes,Prime MedSupply,2025-12-07,2027-11-24,581,90+ days,250,3.99,2318.19,0.00,0.00
+MED024-B02,MED024,Amorid 24,Cardiac,Prime MedSupply,2025-09-22,2027-01-21,274,90+ days,340,3.47,950.78,0.00,0.00
+MED024-B03,MED024,Amorid 24,Cardiac,Wellroute Healthcare,2026-03-01,2027-04-03,346,90+ days,485,3.47,1200.62,0.00,0.00
+MED025-B01,MED025,Aziair 25,Gastro,Prime MedSupply,2025-09-25,2026-09-01,132,90+ days,0,3.37,444.84,0.00,0.00
+MED025-B04,MED025,Aziair 25,Gastro,Wellroute Healthcare,2025-08-10,2027-05-11,384,90+ days,0,3.37,1294.08,0.00,0.00
+MED025-B02,MED025,Aziair 25,Gastro,MediBridge Supply,2026-02-26,2027-07-03,437,90+ days,188,3.37,1472.69,0.00,0.00
+MED026-B02,MED026,Glusure 26,Allergy,Urban Pharma Chain,2025-06-14,2026-11-18,210,90+ days,0,3.02,634.20,0.00,0.00
+MED026-B01,MED026,Glusure 26,Allergy,Wellroute Healthcare,2026-01-14,2026-12-18,240,90+ days,328,3.02,724.80,0.00,0.00
+MED026-B03,MED026,Glusure 26,Allergy,Wellroute Healthcare,2026-02-06,2027-02-03,287,90+ days,608,3.02,866.74,0.00,0.00
+MED026-B04,MED026,Glusure 26,Allergy,Prime MedSupply,2025-11-10,2027-07-14,448,90+ days,270,3.02,1352.96,0.00,0.00
+MED027-B04,MED027,Cardaid 27,Vitamins,MediBridge Supply,2025-05-29,2026-11-09,201,90+ days,0,5.26,1057.26,0.00,0.00
+MED027-B02,MED027,Cardaid 27,Vitamins,CareHub Distributors,2025-06-13,2027-05-29,402,90+ days,0,5.26,2114.52,0.00,0.00
+MED027-B01,MED027,Cardaid 27,Vitamins,Apex Wholesale,2026-01-05,2027-11-04,561,90+ days,631,5.26,2950.86,0.00,0.00
+MED028-B03,MED028,Omefast 28,Respiratory,CareHub Distributors,2025-10-01,2026-07-27,96,90+ days,0,5.38,516.48,0.00,0.00
+MED028-B02,MED028,Omefast 28,Respiratory,MediBridge Supply,2026-03-06,2026-11-16,208,90+ days,535,5.38,1119.04,0.00,0.00
+MED028-B04,MED028,Omefast 28,Respiratory,Apex Wholesale,2025-03-10,2027-01-07,260,90+ days,0,5.38,1398.80,0.00,0.00
+MED029-B04,MED029,Pantosafe 29,Hormonal,Wellroute Healthcare,2025-12-30,2027-06-16,420,90+ days,693,2.71,1138.20,0.00,0.00
+MED029-B05,MED029,Pantosafe 29,Hormonal,MediBridge Supply,2025-08-18,2027-07-21,455,90+ days,747,2.71,1233.05,0.00,0.00
+MED030-B04,MED030,Cetimax 30,Neurology,Wellroute Healthcare,2025-09-21,2027-02-09,293,90+ days,0,4.42,1295.06,0.00,0.00
+MED030-B03,MED030,Cetimax 30,Neurology,Urban Pharma Chain,2025-04-01,2027-02-13,297,90+ days,0,4.42,1312.74,0.00,0.00
+MED030-B01,MED030,Cetimax 30,Neurology,Wellroute Healthcare,2025-11-06,2027-09-17,513,90+ days,691,4.42,2267.46,0.00,0.00
+MED031-B01,MED031,Monttide 31,Pain Relief,CareHub Distributors,2026-03-15,2026-08-19,119,90+ days,291,3.73,443.87,0.00,0.00
+MED031-B02,MED031,Monttide 31,Pain Relief,CareHub Distributors,2026-03-22,2026-08-21,121,90+ days,374,3.73,451.33,0.00,0.00
+MED031-B03,MED031,Monttide 31,Pain Relief,Wellroute Healthcare,2025-10-19,2027-06-17,421,90+ days,0,3.73,1570.33,0.00,0.00
+MED031-B04,MED031,Monttide 31,Pain Relief,Apex Wholesale,2025-11-28,2027-09-08,504,90+ days,398,3.73,1879.92,0.00,0.00
+MED032-B03,MED032,Vitawell 32,Antibiotic,MediBridge Supply,2025-08-16,2027-05-26,399,90+ days,0,3.04,1212.96,0.00,0.00
+MED032-B02,MED032,Vitawell 32,Antibiotic,MediBridge Supply,2025-08-16,2027-05-29,402,90+ days,0,3.04,1222.08,0.00,0.00
+MED032-B01,MED032,Vitawell 32,Antibiotic,MediBridge Supply,2025-10-03,2027-06-18,422,90+ days,0,3.04,1282.88,0.00,0.00
+MED033-B01,MED033,B12calm 33,Diabetes,Apex Wholesale,2025-11-05,2026-08-17,117,90+ days,0,3.21,375.57,0.00,0.00
+MED033-B02,MED033,B12calm 33,Diabetes,MediBridge Supply,2025-02-28,2026-12-16,238,90+ days,0,3.21,763.98,0.00,0.00
+MED034-B01,MED034,Coughflow 34,Cardiac,Wellroute Healthcare,2025-09-22,2026-09-09,140,90+ days,0,2.82,394.80,0.00,0.00
+MED034-B02,MED034,Coughflow 34,Cardiac,Wellroute Healthcare,2025-12-18,2026-11-26,218,90+ days,344,2.82,614.76,0.00,0.00
+MED034-B03,MED034,Coughflow 34,Cardiac,MediBridge Supply,2025-12-11,2027-01-20,273,90+ days,421,2.82,769.86,0.00,0.00
+MED035-B02,MED035,Bronmed 35,Gastro,Wellroute Healthcare,2026-01-09,2026-09-05,136,90+ days,0,2.73,371.28,0.00,0.00
+MED035-B04,MED035,Bronmed 35,Gastro,Prime MedSupply,2025-11-26,2027-06-01,405,90+ days,58,2.73,1105.65,0.00,0.00
+MED035-B01,MED035,Bronmed 35,Gastro,Wellroute Healthcare,2026-01-19,2027-06-18,422,90+ days,560,2.73,1152.06,0.00,0.00
+MED035-B03,MED035,Bronmed 35,Gastro,Apex Wholesale,2026-01-26,2027-09-09,505,90+ days,788,2.73,1378.65,0.00,0.00
+MED036-B03,MED036,Zinnil 36,Allergy,CareHub Distributors,2025-11-23,2026-08-25,125,90+ days,0,3.20,400.00,0.00,0.00
+MED036-B01,MED036,Zinnil 36,Allergy,Wellroute Healthcare,2025-09-11,2027-01-27,280,90+ days,139,3.20,896.00,0.00,0.00
+MED037-B03,MED037,Thyrocare 37,Vitamins,Wellroute Healthcare,2026-03-20,2027-06-03,407,90+ days,548,4.59,1868.13,0.00,0.00
+MED037-B01,MED037,Thyrocare 37,Vitamins,Prime MedSupply,2025-11-02,2027-09-09,505,90+ days,125,4.59,2317.95,0.00,0.00
+MED038-B02,MED038,Neurorise 38,Respiratory,MediBridge Supply,2025-08-21,2026-08-14,114,90+ days,0,3.05,347.70,0.00,0.00
+MED038-B01,MED038,Neurorise 38,Respiratory,Prime MedSupply,2025-12-25,2027-01-22,275,90+ days,64,3.05,838.75,0.00,0.00
+MED038-B03,MED038,Neurorise 38,Respiratory,Prime MedSupply,2026-04-03,2027-01-28,281,90+ days,693,3.05,857.05,0.00,0.00
+MED038-B04,MED038,Neurorise 38,Respiratory,Urban Pharma Chain,2026-03-27,2028-02-12,661,90+ days,587,3.05,2016.05,0.00,0.00
+MED039-B04,MED039,Calvita 39,Hormonal,Urban Pharma Chain,2025-12-28,2026-11-28,220,90+ days,353,3.79,833.80,0.00,0.00
+MED039-B01,MED039,Calvita 39,Hormonal,Apex Wholesale,2025-12-16,2027-02-17,301,90+ days,379,3.79,1140.79,0.00,0.00
+MED039-B05,MED039,Calvita 39,Hormonal,CareHub Distributors,2025-10-29,2027-08-19,484,90+ days,352,3.79,1834.36,0.00,0.00
+MED040-B03,MED040,Levboost 40,Neurology,Apex Wholesale,2025-04-17,2026-12-27,249,90+ days,0,3.33,829.17,0.00,0.00
+MED040-B01,MED040,Levboost 40,Neurology,MediBridge Supply,2026-01-19,2027-11-08,565,90+ days,295,3.33,1881.45,0.00,0.00
+MED040-B02,MED040,Levboost 40,Neurology,Prime MedSupply,2026-03-16,2028-02-06,655,90+ days,730,3.33,2181.15,0.00,0.00
+MED041-B02,MED041,Paracure 41,Pain Relief,Urban Pharma Chain,2026-02-11,2026-07-27,96,90+ days,0,4.35,417.60,0.00,0.00
+MED041-B03,MED041,Paracure 41,Pain Relief,MediBridge Supply,2025-05-14,2026-12-23,245,90+ days,0,4.35,1065.75,0.00,0.00
+MED041-B01,MED041,Paracure 41,Pain Relief,CareHub Distributors,2025-06-06,2027-05-24,397,90+ days,0,4.35,1726.95,0.00,0.00
+MED042-B02,MED042,Ibuplus 42,Antibiotic,Wellroute Healthcare,2025-09-03,2026-09-26,157,90+ days,0,2.22,348.54,0.00,0.00
+MED042-B04,MED042,Ibuplus 42,Antibiotic,MediBridge Supply,2026-03-29,2026-11-08,200,90+ days,120,2.22,444.00,0.00,0.00
+MED042-B01,MED042,Ibuplus 42,Antibiotic,Apex Wholesale,2026-01-17,2027-01-17,270,90+ days,494,2.22,599.40,0.00,0.00
+MED042-B03,MED042,Ibuplus 42,Antibiotic,Apex Wholesale,2026-03-30,2028-01-11,629,90+ days,852,2.22,1396.38,0.00,0.00
+MED043-B01,MED043,Cefizen 43,Diabetes,Wellroute Healthcare,2026-03-30,2027-01-11,264,90+ days,620,3.59,947.76,0.00,0.00
+MED043-B04,MED043,Cefizen 43,Diabetes,MediBridge Supply,2025-08-16,2027-04-13,356,90+ days,0,3.59,1278.04,0.00,0.00
+MED044-B02,MED044,Amorid 44,Cardiac,MediBridge Supply,2025-03-20,2026-11-29,221,90+ days,156,5.69,1257.49,0.00,0.00
+MED044-B05,MED044,Amorid 44,Cardiac,MediBridge Supply,2026-04-02,2027-11-21,578,90+ days,681,5.69,3288.82,0.00,0.00
+MED045-B02,MED045,Aziair 45,Gastro,Apex Wholesale,2025-07-11,2026-12-07,229,90+ days,271,4.96,1135.84,0.00,0.00
+MED045-B03,MED045,Aziair 45,Gastro,MediBridge Supply,2025-11-10,2027-01-15,268,90+ days,600,4.96,1329.28,0.00,0.00
+MED045-B01,MED045,Aziair 45,Gastro,Apex Wholesale,2026-03-07,2027-07-19,453,90+ days,245,4.96,2246.88,0.00,0.00
+MED046-B03,MED046,Glusure 46,Allergy,Wellroute Healthcare,2025-06-11,2026-11-19,211,90+ days,0,2.88,607.68,0.00,0.00
+MED047-B01,MED047,Cardaid 47,Vitamins,CareHub Distributors,2025-05-17,2026-09-20,151,90+ days,0,2.36,356.36,0.00,0.00
+MED047-B02,MED047,Cardaid 47,Vitamins,Wellroute Healthcare,2026-03-14,2027-05-30,403,90+ days,69,2.36,951.08,0.00,0.00
+MED048-B04,MED048,Omefast 48,Respiratory,Urban Pharma Chain,2025-03-17,2026-10-03,164,90+ days,0,4.43,726.52,0.00,0.00
+MED048-B05,MED048,Omefast 48,Respiratory,Apex Wholesale,2025-09-28,2026-11-12,204,90+ days,0,4.43,903.72,0.00,0.00
+MED048-B03,MED048,Omefast 48,Respiratory,Apex Wholesale,2025-07-01,2027-03-24,336,90+ days,7,4.43,1488.48,0.00,0.00
+MED048-B02,MED048,Omefast 48,Respiratory,Urban Pharma Chain,2025-12-18,2027-08-05,470,90+ days,463,4.43,2082.10,0.00,0.00
+MED048-B01,MED048,Omefast 48,Respiratory,MediBridge Supply,2026-01-18,2028-01-04,622,90+ days,728,4.43,2755.46,0.00,0.00
+MED049-B02,MED049,Pantosafe 49,Hormonal,CareHub Distributors,2025-10-28,2027-03-16,328,90+ days,168,1.87,613.36,0.00,0.00
+MED049-B01,MED049,Pantosafe 49,Hormonal,Wellroute Healthcare,2026-03-12,2027-10-01,527,90+ days,191,1.87,985.49,0.00,0.00
+MED049-B03,MED049,Pantosafe 49,Hormonal,Wellroute Healthcare,2026-04-11,2027-12-04,591,90+ days,461,1.87,1105.17,0.00,0.00
+MED050-B03,MED050,Cetimax 50,Neurology,Prime MedSupply,2025-05-28,2026-12-03,225,90+ days,0,3.28,738.00,0.00,0.00
+MED050-B02,MED050,Cetimax 50,Neurology,Wellroute Healthcare,2026-04-09,2026-12-28,250,90+ days,190,3.28,820.00,0.00,0.00
+MED050-B05,MED050,Cetimax 50,Neurology,MediBridge Supply,2025-07-25,2027-04-08,351,90+ days,255,3.28,1151.28,0.00,0.00
+MED050-B01,MED050,Cetimax 50,Neurology,MediBridge Supply,2025-09-02,2027-06-18,422,90+ days,730,3.28,1384.16,0.00,0.00
+MED051-B03,MED051,Monttide 51,Pain Relief,Wellroute Healthcare,2025-08-13,2027-01-09,262,90+ days,0,5.71,1496.02,0.00,0.00
+MED051-B01,MED051,Monttide 51,Pain Relief,Wellroute Healthcare,2025-09-21,2027-04-23,366,90+ days,0,5.71,2089.86,0.00,0.00
+MED051-B04,MED051,Monttide 51,Pain Relief,CareHub Distributors,2025-07-10,2027-05-09,382,90+ days,0,5.71,2181.22,0.00,0.00
+MED051-B02,MED051,Monttide 51,Pain Relief,CareHub Distributors,2025-11-12,2027-09-22,518,90+ days,317,5.71,2957.78,0.00,0.00
+MED052-B04,MED052,Vitawell 52,Antibiotic,CareHub Distributors,2025-03-21,2026-10-23,184,90+ days,0,5.73,1054.32,0.00,0.00
+MED052-B03,MED052,Vitawell 52,Antibiotic,MediBridge Supply,2026-03-10,2026-12-15,237,90+ days,15,5.73,1358.01,0.00,0.00
+MED052-B01,MED052,Vitawell 52,Antibiotic,Urban Pharma Chain,2025-09-07,2027-04-01,344,90+ days,4,5.73,1971.12,0.00,0.00
+MED053-B03,MED053,B12calm 53,Diabetes,MediBridge Supply,2025-03-05,2026-12-09,231,90+ days,0,3.74,863.94,0.00,0.00
+MED053-B01,MED053,B12calm 53,Diabetes,Apex Wholesale,2025-10-06,2027-03-10,322,90+ days,0,3.74,1204.28,0.00,0.00
+MED053-B05,MED053,B12calm 53,Diabetes,CareHub Distributors,2025-11-18,2027-03-19,331,90+ days,0,3.74,1237.94,0.00,0.00
+MED053-B02,MED053,B12calm 53,Diabetes,MediBridge Supply,2026-03-07,2027-04-08,351,90+ days,226,3.74,1312.74,0.00,0.00
+MED053-B04,MED053,B12calm 53,Diabetes,Prime MedSupply,2025-10-10,2027-08-30,495,90+ days,186,3.74,1851.30,0.00,0.00
+MED054-B03,MED054,Coughflow 54,Cardiac,MediBridge Supply,2025-05-16,2026-11-03,195,90+ days,0,4.24,826.80,0.00,0.00
+MED054-B01,MED054,Coughflow 54,Cardiac,Urban Pharma Chain,2026-02-11,2027-01-04,257,90+ days,544,4.24,1089.68,0.00,0.00
+MED054-B02,MED054,Coughflow 54,Cardiac,MediBridge Supply,2025-10-21,2027-02-03,287,90+ days,616,4.24,1216.88,0.00,0.00
+MED055-B01,MED055,Bronmed 55,Gastro,CareHub Distributors,2025-07-17,2026-11-13,205,90+ days,0,3.05,625.25,0.00,0.00
+MED055-B02,MED055,Bronmed 55,Gastro,Prime MedSupply,2025-12-25,2027-03-02,314,90+ days,0,3.05,957.70,0.00,0.00
+MED056-B01,MED056,Zinnil 56,Allergy,MediBridge Supply,2025-10-26,2026-08-11,111,90+ days,436,4.68,519.48,0.00,0.00
+MED057-B01,MED057,Thyrocare 57,Vitamins,Wellroute Healthcare,2025-04-25,2027-02-14,298,90+ days,0,2.29,682.42,0.00,0.00
+MED057-B03,MED057,Thyrocare 57,Vitamins,MediBridge Supply,2025-04-05,2027-03-02,314,90+ days,0,2.29,719.06,0.00,0.00
+MED058-B02,MED058,Neurorise 58,Respiratory,Apex Wholesale,2025-09-11,2026-10-03,164,90+ days,458,3.45,565.80,0.00,0.00
+MED058-B04,MED058,Neurorise 58,Respiratory,Apex Wholesale,2025-08-09,2026-12-23,245,90+ days,320,3.45,845.25,0.00,0.00
+MED058-B03,MED058,Neurorise 58,Respiratory,Apex Wholesale,2025-10-27,2027-06-30,434,90+ days,616,3.45,1497.30,0.00,0.00
+MED059-B03,MED059,Calvita 59,Hormonal,Wellroute Healthcare,2026-01-07,2027-01-13,266,90+ days,607,3.98,1058.68,0.00,0.00
+MED060-B01,MED060,Levboost 60,Neurology,Apex Wholesale,2025-10-26,2026-08-04,104,90+ days,220,3.20,332.80,0.00,0.00
+MED060-B02,MED060,Levboost 60,Neurology,Prime MedSupply,2025-06-29,2026-10-03,164,90+ days,0,3.20,524.80,0.00,0.00
+MED061-B03,MED061,Paracure 61,Pain Relief,CareHub Distributors,2025-07-05,2026-09-03,134,90+ days,0,4.50,603.00,0.00,0.00
+MED061-B01,MED061,Paracure 61,Pain Relief,CareHub Distributors,2025-07-23,2026-09-29,160,90+ days,0,4.50,720.00,0.00,0.00
+MED061-B02,MED061,Paracure 61,Pain Relief,Prime MedSupply,2025-12-02,2027-06-24,428,90+ days,327,4.50,1926.00,0.00,0.00
+MED062-B04,MED062,Ibuplus 62,Antibiotic,Apex Wholesale,2026-01-14,2026-10-01,162,90+ days,0,4.54,735.48,0.00,0.00
+MED062-B03,MED062,Ibuplus 62,Antibiotic,Apex Wholesale,2025-09-20,2027-01-18,271,90+ days,0,4.54,1230.34,0.00,0.00
+MED062-B05,MED062,Ibuplus 62,Antibiotic,Apex Wholesale,2025-10-17,2027-06-02,406,90+ days,572,4.54,1843.24,0.00,0.00
+MED062-B01,MED062,Ibuplus 62,Antibiotic,Prime MedSupply,2025-12-28,2027-11-02,559,90+ days,357,4.54,2537.86,0.00,0.00
+MED063-B01,MED063,Cefizen 63,Diabetes,MediBridge Supply,2025-05-29,2026-08-13,113,90+ days,0,4.13,466.69,0.00,0.00
+MED063-B04,MED063,Cefizen 63,Diabetes,Urban Pharma Chain,2026-02-13,2026-10-11,172,90+ days,368,4.13,710.36,0.00,0.00
+MED063-B05,MED063,Cefizen 63,Diabetes,Apex Wholesale,2025-10-12,2027-04-19,362,90+ days,0,4.13,1495.06,0.00,0.00
+MED063-B02,MED063,Cefizen 63,Diabetes,Urban Pharma Chain,2025-10-11,2027-06-21,425,90+ days,172,4.13,1755.25,0.00,0.00
+MED063-B03,MED063,Cefizen 63,Diabetes,Urban Pharma Chain,2026-02-16,2027-12-03,590,90+ days,698,4.13,2436.70,0.00,0.00
+MED064-B02,MED064,Amorid 64,Cardiac,Apex Wholesale,2025-07-25,2026-08-31,131,90+ days,0,3.73,488.63,0.00,0.00
+MED064-B04,MED064,Amorid 64,Cardiac,Prime MedSupply,2026-01-04,2027-01-31,284,90+ days,611,3.73,1059.32,0.00,0.00
+MED064-B03,MED064,Amorid 64,Cardiac,Urban Pharma Chain,2025-11-12,2027-04-16,359,90+ days,302,3.73,1339.07,0.00,0.00
+MED065-B01,MED065,Aziair 65,Gastro,Apex Wholesale,2025-08-23,2026-12-26,248,90+ days,0,3.67,910.16,0.00,0.00
+MED065-B02,MED065,Aziair 65,Gastro,Wellroute Healthcare,2026-01-03,2027-03-28,340,90+ days,137,3.67,1247.80,0.00,0.00
+MED066-B04,MED066,Glusure 66,Allergy,CareHub Distributors,2025-04-26,2027-02-01,285,90+ days,0,4.03,1148.55,0.00,0.00
+MED066-B01,MED066,Glusure 66,Allergy,Prime MedSupply,2025-12-13,2027-03-03,315,90+ days,342,4.03,1269.45,0.00,0.00
+MED066-B03,MED066,Glusure 66,Allergy,Apex Wholesale,2025-07-28,2027-05-31,404,90+ days,0,4.03,1628.12,0.00,0.00
+MED066-B02,MED066,Glusure 66,Allergy,Wellroute Healthcare,2026-03-04,2028-01-05,623,90+ days,525,4.03,2510.69,0.00,0.00
+MED067-B04,MED067,Cardaid 67,Vitamins,Wellroute Healthcare,2026-02-15,2026-10-14,175,90+ days,340,3.57,624.75,0.00,0.00
+MED067-B01,MED067,Cardaid 67,Vitamins,Wellroute Healthcare,2025-09-26,2027-01-14,267,90+ days,0,3.57,953.19,0.00,0.00
+MED067-B02,MED067,Cardaid 67,Vitamins,Apex Wholesale,2025-10-28,2027-03-23,335,90+ days,232,3.57,1195.95,0.00,0.00
+MED067-B03,MED067,Cardaid 67,Vitamins,CareHub Distributors,2026-03-01,2027-05-23,396,90+ days,532,3.57,1413.72,0.00,0.00
+MED068-B01,MED068,Omefast 68,Respiratory,Urban Pharma Chain,2025-09-18,2027-06-20,424,90+ days,312,4.01,1700.24,0.00,0.00
+MED069-B01,MED069,Pantosafe 69,Hormonal,Apex Wholesale,2025-06-28,2026-10-18,179,90+ days,250,2.90,519.10,0.00,0.00
+MED069-B02,MED069,Pantosafe 69,Hormonal,Prime MedSupply,2025-11-05,2027-04-06,349,90+ days,285,2.90,1012.10,0.00,0.00
+MED069-B03,MED069,Pantosafe 69,Hormonal,Wellroute Healthcare,2026-02-25,2027-10-17,543,90+ days,263,2.90,1574.70,0.00,0.00
+MED070-B03,MED070,Cetimax 70,Neurology,CareHub Distributors,2025-09-02,2026-08-11,111,90+ days,0,3.76,417.36,0.00,0.00
+MED070-B02,MED070,Cetimax 70,Neurology,Apex Wholesale,2025-08-15,2026-08-19,119,90+ days,0,3.76,447.44,0.00,0.00
+MED070-B01,MED070,Cetimax 70,Neurology,MediBridge Supply,2025-03-27,2027-03-05,317,90+ days,445,3.76,1191.92,0.00,0.00
+MED071-B01,MED071,Monttide 71,Pain Relief,Prime MedSupply,2025-12-22,2026-10-09,170,90+ days,0,3.39,576.30,0.00,0.00
+MED071-B03,MED071,Monttide 71,Pain Relief,Urban Pharma Chain,2025-09-10,2027-06-16,420,90+ days,0,3.39,1423.80,0.00,0.00
+MED071-B02,MED071,Monttide 71,Pain Relief,Urban Pharma Chain,2026-01-08,2027-09-10,506,90+ days,85,3.39,1715.34,0.00,0.00
+MED072-B01,MED072,Vitawell 72,Antibiotic,MediBridge Supply,2025-07-07,2026-12-12,234,90+ days,0,2.58,603.72,0.00,0.00
+MED072-B02,MED072,Vitawell 72,Antibiotic,Apex Wholesale,2025-10-17,2027-08-08,473,90+ days,0,2.58,1220.34,0.00,0.00
+MED073-B01,MED073,B12calm 73,Diabetes,Wellroute Healthcare,2025-07-27,2026-08-19,119,90+ days,0,2.25,267.75,0.00,0.00
+MED073-B02,MED073,B12calm 73,Diabetes,Wellroute Healthcare,2026-04-04,2027-09-21,517,90+ days,107,2.25,1163.25,0.00,0.00
+MED074-B02,MED074,Coughflow 74,Cardiac,CareHub Distributors,2025-10-08,2026-10-13,174,90+ days,0,2.99,520.26,0.00,0.00
+MED074-B05,MED074,Coughflow 74,Cardiac,Urban Pharma Chain,2025-03-23,2026-10-31,192,90+ days,0,2.99,574.08,0.00,0.00
+MED074-B03,MED074,Coughflow 74,Cardiac,Apex Wholesale,2026-02-05,2027-06-14,418,90+ days,239,2.99,1249.82,0.00,0.00
+MED074-B01,MED074,Coughflow 74,Cardiac,MediBridge Supply,2026-01-31,2027-07-15,449,90+ days,582,2.99,1342.51,0.00,0.00
+MED074-B04,MED074,Coughflow 74,Cardiac,Urban Pharma Chain,2026-03-30,2027-11-20,577,90+ days,353,2.99,1725.23,0.00,0.00
+MED075-B01,MED075,Bronmed 75,Gastro,Urban Pharma Chain,2025-05-05,2026-10-05,166,90+ days,0,2.73,453.18,0.00,0.00
+MED075-B04,MED075,Bronmed 75,Gastro,Wellroute Healthcare,2026-03-31,2027-04-14,357,90+ days,96,2.73,974.61,0.00,0.00
+MED075-B02,MED075,Bronmed 75,Gastro,Wellroute Healthcare,2026-01-22,2027-04-15,358,90+ days,14,2.73,977.34,0.00,0.00
+MED075-B03,MED075,Bronmed 75,Gastro,Apex Wholesale,2026-01-22,2027-10-15,541,90+ days,329,2.73,1476.93,0.00,0.00
+MED076-B03,MED076,Zinnil 76,Allergy,Wellroute Healthcare,2025-03-04,2026-08-05,105,90+ days,0,2.13,223.65,0.00,0.00
+MED076-B02,MED076,Zinnil 76,Allergy,Wellroute Healthcare,2025-11-06,2027-01-19,272,90+ days,0,2.13,579.36,0.00,0.00
+MED077-B03,MED077,Thyrocare 77,Vitamins,Wellroute Healthcare,2025-08-17,2027-03-09,321,90+ days,0,2.18,699.78,0.00,0.00
+MED077-B02,MED077,Thyrocare 77,Vitamins,Wellroute Healthcare,2025-10-20,2027-09-04,500,90+ days,0,2.18,1090.00,0.00,0.00
+MED077-B01,MED077,Thyrocare 77,Vitamins,Urban Pharma Chain,2026-03-29,2027-10-29,555,90+ days,663,2.18,1209.90,0.00,0.00
+MED078-B04,MED078,Neurorise 78,Respiratory,Prime MedSupply,2025-03-17,2026-07-26,95,90+ days,0,4.08,387.60,0.00,0.00
+MED078-B02,MED078,Neurorise 78,Respiratory,Wellroute Healthcare,2026-01-07,2027-06-19,423,90+ days,458,4.08,1725.84,0.00,0.00
+MED078-B01,MED078,Neurorise 78,Respiratory,Wellroute Healthcare,2026-03-26,2027-11-06,563,90+ days,518,4.08,2297.04,0.00,0.00
+MED079-B02,MED079,Calvita 79,Hormonal,Prime MedSupply,2026-03-25,2027-07-28,462,90+ days,469,2.92,1349.04,0.00,0.00
+MED079-B01,MED079,Calvita 79,Hormonal,MediBridge Supply,2025-09-26,2027-09-09,505,90+ days,0,2.92,1474.60,0.00,0.00
+MED080-B04,MED080,Levboost 80,Neurology,MediBridge Supply,2025-03-15,2026-09-10,141,90+ days,0,3.76,530.16,0.00,0.00
+MED080-B03,MED080,Levboost 80,Neurology,Urban Pharma Chain,2025-10-26,2027-01-01,254,90+ days,491,3.76,955.04,0.00,0.00
+MED080-B02,MED080,Levboost 80,Neurology,CareHub Distributors,2025-10-25,2027-01-03,256,90+ days,524,3.76,962.56,0.00,0.00
+MED081-B04,MED081,Paracure 81,Pain Relief,CareHub Distributors,2025-08-02,2026-08-19,119,90+ days,0,6.61,786.59,0.00,0.00
+MED081-B05,MED081,Paracure 81,Pain Relief,Prime MedSupply,2025-03-28,2026-09-10,141,90+ days,0,6.61,932.01,0.00,0.00
+MED081-B01,MED081,Paracure 81,Pain Relief,CareHub Distributors,2025-04-07,2026-10-25,186,90+ days,0,6.61,1229.46,0.00,0.00
+MED081-B03,MED081,Paracure 81,Pain Relief,Apex Wholesale,2025-09-20,2027-04-27,370,90+ days,468,6.61,2445.70,0.00,0.00
+MED082-B03,MED082,Ibuplus 82,Antibiotic,Wellroute Healthcare,2025-03-04,2026-07-28,97,90+ days,0,3.48,337.56,0.00,0.00
+MED082-B02,MED082,Ibuplus 82,Antibiotic,Wellroute Healthcare,2025-12-09,2026-08-24,124,90+ days,0,3.48,431.52,0.00,0.00
+MED082-B01,MED082,Ibuplus 82,Antibiotic,MediBridge Supply,2026-02-27,2026-12-13,235,90+ days,699,3.48,817.80,0.00,0.00
+MED082-B04,MED082,Ibuplus 82,Antibiotic,CareHub Distributors,2025-12-24,2027-05-29,402,90+ days,475,3.48,1398.96,0.00,0.00
+MED083-B01,MED083,Cefizen 83,Diabetes,Wellroute Healthcare,2025-04-28,2026-08-10,110,90+ days,0,5.74,631.40,0.00,0.00
+MED083-B04,MED083,Cefizen 83,Diabetes,Prime MedSupply,2025-06-06,2026-12-07,229,90+ days,0,5.74,1314.46,0.00,0.00
+MED083-B02,MED083,Cefizen 83,Diabetes,Wellroute Healthcare,2025-07-28,2027-07-07,441,90+ days,86,5.74,2531.34,0.00,0.00
+MED084-B02,MED084,Amorid 84,Cardiac,CareHub Distributors,2025-08-30,2027-04-11,354,90+ days,0,3.87,1369.98,0.00,0.00
+MED085-B03,MED085,Aziair 85,Gastro,Prime MedSupply,2025-05-13,2027-04-12,355,90+ days,0,4.00,1420.00,0.00,0.00
+MED085-B01,MED085,Aziair 85,Gastro,Wellroute Healthcare,2026-03-07,2027-09-04,500,90+ days,56,4.00,2000.00,0.00,0.00
+MED085-B04,MED085,Aziair 85,Gastro,Apex Wholesale,2025-11-03,2027-10-03,529,90+ days,278,4.00,2116.00,0.00,0.00
+MED086-B04,MED086,Glusure 86,Allergy,CareHub Distributors,2026-04-05,2026-12-14,236,90+ days,248,3.02,712.72,0.00,0.00
+MED086-B03,MED086,Glusure 86,Allergy,Urban Pharma Chain,2025-07-09,2027-01-19,272,90+ days,0,3.02,821.44,0.00,0.00
+MED086-B01,MED086,Glusure 86,Allergy,Apex Wholesale,2026-04-02,2028-01-05,623,90+ days,554,3.02,1881.46,0.00,0.00
+MED086-B05,MED086,Glusure 86,Allergy,Apex Wholesale,2026-02-07,2028-01-26,644,90+ days,547,3.02,1944.88,0.00,0.00
+MED087-B04,MED087,Cardaid 87,Vitamins,MediBridge Supply,2025-11-26,2026-12-04,226,90+ days,0,3.19,720.94,0.00,0.00
+MED087-B05,MED087,Cardaid 87,Vitamins,Urban Pharma Chain,2026-01-10,2027-07-10,444,90+ days,541,3.19,1416.36,0.00,0.00
+MED087-B02,MED087,Cardaid 87,Vitamins,MediBridge Supply,2026-03-17,2027-12-23,610,90+ days,821,3.19,1945.90,0.00,0.00
+MED088-B03,MED088,Omefast 88,Respiratory,Prime MedSupply,2025-11-23,2026-12-04,226,90+ days,0,2.39,540.14,0.00,0.00
+MED088-B01,MED088,Omefast 88,Respiratory,Prime MedSupply,2025-11-24,2027-03-12,324,90+ days,0,2.39,774.36,0.00,0.00
+MED088-B02,MED088,Omefast 88,Respiratory,Prime MedSupply,2025-12-14,2027-11-11,568,90+ days,632,2.39,1357.52,0.00,0.00
+MED089-B02,MED089,Pantosafe 89,Hormonal,Wellroute Healthcare,2025-08-26,2026-12-02,224,90+ days,235,3.88,869.12,0.00,0.00
+MED089-B03,MED089,Pantosafe 89,Hormonal,Apex Wholesale,2025-04-26,2026-12-26,248,90+ days,229,3.88,962.24,0.00,0.00
+MED090-B03,MED090,Cetimax 90,Neurology,Prime MedSupply,2025-09-27,2026-09-21,152,90+ days,246,3.48,528.96,0.00,0.00
+MED090-B02,MED090,Cetimax 90,Neurology,CareHub Distributors,2026-03-21,2027-11-04,561,90+ days,242,3.48,1952.28,0.00,0.00
+MED091-B02,MED091,Monttide 91,Pain Relief,CareHub Distributors,2026-02-12,2026-10-21,182,90+ days,0,5.32,968.24,0.00,0.00
+MED091-B01,MED091,Monttide 91,Pain Relief,Prime MedSupply,2025-12-24,2027-06-11,415,90+ days,146,5.32,2207.80,0.00,0.00
+MED092-B03,MED092,Vitawell 92,Antibiotic,MediBridge Supply,2025-07-26,2027-03-28,340,90+ days,0,6.07,2063.80,0.00,0.00
+MED092-B01,MED092,Vitawell 92,Antibiotic,CareHub Distributors,2025-07-09,2027-04-08,351,90+ days,135,6.07,2130.57,0.00,0.00
+MED093-B03,MED093,B12calm 93,Diabetes,CareHub Distributors,2025-09-27,2026-09-14,145,90+ days,0,4.90,710.50,0.00,0.00
+MED093-B01,MED093,B12calm 93,Diabetes,Apex Wholesale,2025-05-29,2027-04-22,365,90+ days,0,4.90,1788.50,0.00,0.00
+MED094-B03,MED094,Coughflow 94,Cardiac,Urban Pharma Chain,2025-04-05,2027-01-21,274,90+ days,0,1.97,539.78,0.00,0.00
+MED094-B01,MED094,Coughflow 94,Cardiac,Prime MedSupply,2026-02-26,2027-07-29,463,90+ days,111,1.97,912.11,0.00,0.00
+MED094-B02,MED094,Coughflow 94,Cardiac,Apex Wholesale,2026-03-26,2027-12-08,595,90+ days,670,1.97,1172.15,0.00,0.00
+MED095-B04,MED095,Bronmed 95,Gastro,Urban Pharma Chain,2026-03-13,2026-10-13,174,90+ days,368,4.87,847.38,0.00,0.00
+MED095-B02,MED095,Bronmed 95,Gastro,CareHub Distributors,2025-12-12,2027-02-25,309,90+ days,204,4.87,1504.83,0.00,0.00
+MED095-B01,MED095,Bronmed 95,Gastro,CareHub Distributors,2025-09-08,2027-08-24,489,90+ days,60,4.87,2381.43,0.00,0.00
+MED096-B02,MED096,Zinnil 96,Allergy,Prime MedSupply,2025-09-24,2027-03-03,315,90+ days,53,4.56,1436.40,0.00,0.00
+MED096-B04,MED096,Zinnil 96,Allergy,Wellroute Healthcare,2025-05-25,2027-04-20,363,90+ days,248,4.56,1655.28,0.00,0.00
+MED096-B01,MED096,Zinnil 96,Allergy,Wellroute Healthcare,2025-12-04,2027-05-02,375,90+ days,517,4.56,1710.00,0.00,0.00
+MED097-B03,MED097,Thyrocare 97,Vitamins,CareHub Distributors,2025-12-18,2026-10-30,191,90+ days,0,3.30,630.30,0.00,0.00
+MED097-B02,MED097,Thyrocare 97,Vitamins,MediBridge Supply,2025-10-04,2027-03-24,336,90+ days,0,3.30,1108.80,0.00,0.00
+MED098-B03,MED098,Neurorise 98,Respiratory,Prime MedSupply,2025-06-25,2026-10-16,177,90+ days,0,3.61,638.97,0.00,0.00
+MED098-B01,MED098,Neurorise 98,Respiratory,MediBridge Supply,2025-09-02,2027-03-30,342,90+ days,0,3.61,1234.62,0.00,0.00
+MED099-B04,MED099,Calvita 99,Hormonal,CareHub Distributors,2025-10-22,2026-12-19,241,90+ days,128,3.22,776.02,0.00,0.00
+MED099-B02,MED099,Calvita 99,Hormonal,Prime MedSupply,2025-07-08,2027-03-18,330,90+ days,326,3.22,1062.60,0.00,0.00
+MED099-B03,MED099,Calvita 99,Hormonal,Apex Wholesale,2025-10-07,2027-07-05,439,90+ days,296,3.22,1413.58,0.00,0.00
+MED100-B03,MED100,Levboost 100,Neurology,Prime MedSupply,2025-07-15,2027-04-24,367,90+ days,0,2.81,1031.27,0.00,0.00
+MED100-B01,MED100,Levboost 100,Neurology,Prime MedSupply,2026-03-16,2027-12-07,594,90+ days,587,2.81,1669.14,0.00,0.00

@@ -1,0 +1,101 @@
+medicine_id,medicine_name,category,stock_in_hand,avg_daily_units,days_to_expiry,recommended_action
+MED004,Amorid 4,Cardiac,1308,3.5753424657534247,-77,Discount/Clear
+MED044,Amorid 44,Cardiac,894,5.693150684931507,-147,Discount/Clear
+MED025,Aziair 25,Gastro,188,3.372602739726027,-92,Discount/Clear
+MED045,Aziair 45,Gastro,1116,4.964383561643835,-136,Discount/Clear
+MED005,Aziair 5,Gastro,373,3.958904109589041,19,Discount/Clear
+MED065,Aziair 65,Gastro,137,3.665753424657534,27,Discount/Clear
+MED085,Aziair 85,Gastro,334,4.0,-105,Discount/Clear
+MED013,B12calm 13,Diabetes,1027,3.1205479452054794,-1,Discount/Clear
+MED073,B12calm 73,Diabetes,107,2.252054794520548,-121,Discount/Clear
+MED095,Bronmed 95,Gastro,632,4.873972602739726,-142,Discount/Clear
+MED039,Calvita 39,Hormonal,1109,3.789041095890411,-82,Discount/Clear
+MED059,Calvita 59,Hormonal,1238,3.9753424657534246,-191,Discount/Clear
+MED079,Calvita 79,Hormonal,603,2.9178082191780823,-151,Discount/Clear
+MED099,Calvita 99,Hormonal,819,3.2164383561643834,4,Discount/Clear
+MED027,Cardaid 27,Vitamins,631,5.260273972602739,-84,Discount/Clear
+MED047,Cardaid 47,Vitamins,69,2.3643835616438356,11,Discount/Clear
+MED067,Cardaid 67,Vitamins,1104,3.56986301369863,15,Discount/Clear
+MED007,Cardaid 7,Vitamins,595,5.142465753424657,-88,Discount/Clear
+MED087,Cardaid 87,Vitamins,1362,3.1945205479452055,-43,Discount/Clear
+MED003,Cefizen 3,Diabetes,162,2.3205479452054796,10,Discount/Clear
+MED043,Cefizen 43,Diabetes,620,3.591780821917808,-147,Discount/Clear
+MED030,Cetimax 30,Neurology,691,4.424657534246576,-125,Discount/Clear
+MED090,Cetimax 90,Neurology,488,3.4794520547945207,5,Discount/Clear
+MED054,Coughflow 54,Cardiac,1160,4.243835616438356,-107,Discount/Clear
+MED006,Glusure 6,Allergy,1074,3.5753424657534247,-14,Discount/Clear
+MED086,Glusure 86,Allergy,1349,3.0191780821917806,-114,Discount/Clear
+MED002,Ibuplus 2,Antibiotic,740,5.580821917808219,-60,Discount/Clear
+MED020,Levboost 20,Neurology,1761,3.6794520547945204,-33,Discount/Clear
+MED040,Levboost 40,Neurology,1025,3.334246575342466,27,Discount/Clear
+MED060,Levboost 60,Neurology,335,3.2,-11,Discount/Clear
+MED080,Levboost 80,Neurology,1015,3.758904109589041,-145,Discount/Clear
+MED091,Monttide 91,Pain Relief,146,5.32054794520548,-165,Discount/Clear
+MED018,Neurorise 18,Respiratory,1910,4.553424657534246,-62,Discount/Clear
+MED038,Neurorise 38,Respiratory,1344,3.0465753424657533,10,Discount/Clear
+MED058,Neurorise 58,Respiratory,1394,3.452054794520548,-77,Discount/Clear
+MED078,Neurorise 78,Respiratory,976,4.079452054794521,-196,Discount/Clear
+MED028,Omefast 28,Respiratory,535,5.3780821917808215,-109,Discount/Clear
+MED068,Omefast 68,Respiratory,312,4.005479452054795,-89,Discount/Clear
+MED029,Pantosafe 29,Hormonal,2455,2.706849315068493,-69,Discount/Clear
+MED069,Pantosafe 69,Hormonal,798,2.904109589041096,-5,Discount/Clear
+MED009,Pantosafe 9,Hormonal,1184,3.9424657534246577,-64,Discount/Clear
+MED001,Paracure 1,Pain Relief,824,4.767123287671233,-93,Discount/Clear
+MED081,Paracure 81,Pain Relief,468,6.605479452054794,-1,Discount/Clear
+MED017,Thyrocare 17,Vitamins,254,3.9232876712328766,-5,Discount/Clear
+MED037,Thyrocare 37,Vitamins,673,4.589041095890411,-71,Discount/Clear
+MED016,Zinnil 16,Allergy,355,2.4794520547945207,-169,Discount/Clear
+MED056,Zinnil 56,Allergy,436,4.682191780821918,-55,Discount/Clear
+MED096,Zinnil 96,Allergy,818,4.558904109589041,-56,Discount/Clear
+MED024,Amorid 24,Cardiac,825,3.4657534246575343,88,Maintain
+MED064,Amorid 64,Cardiac,913,3.728767123287671,76,Maintain
+MED084,Amorid 84,Cardiac,0,3.8657534246575342,52,Maintain
+MED033,B12calm 33,Diabetes,0,3.210958904109589,72,Maintain
+MED053,B12calm 53,Diabetes,412,3.736986301369863,231,Maintain
+MED015,Bronmed 15,Gastro,1822,4.208219178082191,77,Maintain
+MED055,Bronmed 55,Gastro,736,3.052054794520548,137,Maintain
+MED075,Bronmed 75,Gastro,439,2.734246575342466,166,Maintain
+MED023,Cefizen 23,Diabetes,1166,3.9917808219178084,95,Maintain
+MED063,Cefizen 63,Diabetes,1238,4.131506849315069,113,Maintain
+MED050,Cetimax 50,Neurology,1175,3.2849315068493152,75,Maintain
+MED070,Cetimax 70,Neurology,445,3.7616438356164386,63,Maintain
+MED014,Coughflow 14,Cardiac,712,1.8986301369863015,110,Maintain
+MED034,Coughflow 34,Cardiac,765,2.819178082191781,140,Maintain
+MED094,Coughflow 94,Cardiac,781,1.9698630136986301,274,Maintain
+MED026,Glusure 26,Allergy,1206,3.0246575342465754,210,Maintain
+MED046,Glusure 46,Allergy,0,2.8794520547945206,-162,Maintain
+MED066,Glusure 66,Allergy,867,4.027397260273973,285,Maintain
+MED022,Ibuplus 22,Antibiotic,0,3.276712328767123,151,Maintain
+MED062,Ibuplus 62,Antibiotic,929,4.536986301369863,79,Maintain
+MED082,Ibuplus 82,Antibiotic,1174,3.4821917808219176,97,Maintain
+MED100,Levboost 100,Neurology,587,2.813698630136986,65,Maintain
+MED011,Monttide 11,Pain Relief,1813,3.0273972602739727,192,Maintain
+MED031,Monttide 31,Pain Relief,1063,3.728767123287671,119,Maintain
+MED051,Monttide 51,Pain Relief,317,5.706849315068493,262,Maintain
+MED071,Monttide 71,Pain Relief,85,3.389041095890411,170,Maintain
+MED098,Neurorise 98,Respiratory,0,3.6082191780821917,-29,Maintain
+MED048,Omefast 48,Respiratory,1198,4.432876712328767,164,Maintain
+MED008,Omefast 8,Respiratory,0,3.5671232876712327,-81,Maintain
+MED088,Omefast 88,Respiratory,632,2.3917808219178083,226,Maintain
+MED049,Pantosafe 49,Hormonal,820,1.873972602739726,328,Maintain
+MED089,Pantosafe 89,Hormonal,1112,3.8794520547945206,70,Maintain
+MED021,Paracure 21,Pain Relief,312,4.441095890410959,131,Maintain
+MED041,Paracure 41,Pain Relief,0,4.347945205479452,96,Maintain
+MED061,Paracure 61,Pain Relief,327,4.501369863013698,134,Maintain
+MED057,Thyrocare 57,Vitamins,0,2.293150684931507,-44,Maintain
+MED077,Thyrocare 77,Vitamins,663,2.175342465753425,321,Maintain
+MED097,Thyrocare 97,Vitamins,0,3.2986301369863016,-138,Maintain
+MED032,Vitawell 32,Antibiotic,0,3.0356164383561643,399,Maintain
+MED072,Vitawell 72,Antibiotic,0,2.578082191780822,-12,Maintain
+MED092,Vitawell 92,Antibiotic,135,6.073972602739726,55,Maintain
+MED036,Zinnil 36,Allergy,139,3.197260273972603,74,Maintain
+MED076,Zinnil 76,Allergy,0,2.126027397260274,45,Maintain
+MED035,Bronmed 35,Gastro,1406,2.7315068493150685,136,Monitor Overstock
+MED019,Calvita 19,Hormonal,1805,1.7863013698630137,188,Monitor Overstock
+MED010,Cetimax 10,Neurology,1237,2.6246575342465754,88,Monitor Overstock
+MED074,Coughflow 74,Cardiac,1174,2.989041095890411,174,Monitor Overstock
+MED042,Ibuplus 42,Antibiotic,1466,2.2164383561643834,157,Monitor Overstock
+MED093,B12calm 93,Diabetes,0,4.901369863013699,18,Reorder
+MED083,Cefizen 83,Diabetes,86,5.736986301369863,-98,Reorder
+MED012,Vitawell 12,Antibiotic,0,4.835616438356165,-149,Reorder
+MED052,Vitawell 52,Antibiotic,19,5.7315068493150685,-18,Reorder

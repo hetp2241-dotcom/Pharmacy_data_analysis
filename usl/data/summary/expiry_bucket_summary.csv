@@ -1,0 +1,6 @@
+expiry_bucket,batch_count,stock_in_hand,estimated_expiry_risk_value
+Expired,58,293,56093.62
+0-30 days,12,325,53166.86
+31-60 days,11,1023,120608.15
+61-90 days,18,554,40962.00
+90+ days,292,68754,436890.13

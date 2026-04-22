@@ -1,0 +1,101 @@
+medicine_id,medicine_name,category,brand,generic_name,manufacturer,dosage_form,strength,unit_price,cost_price,profit_margin_pct
+MED001,Paracure 1,Pain Relief,MediCure,Paracetamol,Sunwell Pharma,Tablet,5 mg,401.19,223.55,44.28
+MED002,Ibuplus 2,Antibiotic,Healix,Ibuprofen,ZenBio Labs,Capsule,10 mg,556.59,273.21,50.91
+MED003,Cefizen 3,Diabetes,NovaMed,Cefixime,Apex Remedies,Syrup,20 mg,272.07,151.85,44.19
+MED004,Amorid 4,Cardiac,LifeDrop,Amoxicillin,Metro Health,Injection,50 mg,652.23,343.12,47.39
+MED005,Aziair 5,Gastro,PulseRx,Azithromycin,Careline Drugs,Inhaler,100 mg,780.53,389.45,50.10
+MED006,Glusure 6,Allergy,Digesta,Metformin,PrimeCrest,Tablet,250 mg,582.18,358.73,38.38
+MED007,Cardaid 7,Vitamins,Airleaf,Insulin Glargine,Wellspring Labs,Capsule,500 mg,565.13,305.15,46.00
+MED008,Omefast 8,Respiratory,NutriZen,Atorvastatin,NorthStar Pharma,Syrup,100 ml,119.56,68.79,42.46
+MED009,Pantosafe 9,Hormonal,MediCure,Amlodipine,Sunwell Pharma,Injection,5 mg,234.14,171.45,26.77
+MED010,Cetimax 10,Neurology,Healix,Omeprazole,ZenBio Labs,Inhaler,10 mg,291.52,190.48,34.66
+MED011,Monttide 11,Pain Relief,NovaMed,Pantoprazole,Apex Remedies,Tablet,20 mg,463.19,245.38,47.02
+MED012,Vitawell 12,Antibiotic,LifeDrop,Cetirizine,Metro Health,Capsule,50 mg,296.20,142.12,52.02
+MED013,B12calm 13,Diabetes,PulseRx,Montelukast,Careline Drugs,Syrup,100 mg,522.43,362.70,30.57
+MED014,Coughflow 14,Cardiac,Digesta,Multivitamin,PrimeCrest,Injection,250 mg,351.64,175.33,50.14
+MED015,Bronmed 15,Gastro,Airleaf,Methylcobalamin,Wellspring Labs,Inhaler,500 mg,589.76,378.72,35.78
+MED016,Zinnil 16,Allergy,NutriZen,Dextromethorphan,NorthStar Pharma,Tablet,100 ml,57.92,30.37,47.57
+MED017,Thyrocare 17,Vitamins,MediCure,Salbutamol,Sunwell Pharma,Capsule,5 mg,439.95,292.68,33.47
+MED018,Neurorise 18,Respiratory,Healix,Levothyroxine,ZenBio Labs,Syrup,10 mg,601.35,377.34,37.25
+MED019,Calvita 19,Hormonal,NovaMed,Pregabalin,Apex Remedies,Injection,20 mg,575.39,377.55,34.38
+MED020,Levboost 20,Neurology,LifeDrop,Calcium Carbonate,Metro Health,Inhaler,50 mg,146.16,96.58,33.92
+MED021,Paracure 21,Pain Relief,PulseRx,Paracetamol,Careline Drugs,Tablet,100 mg,185.88,101.41,45.44
+MED022,Ibuplus 22,Antibiotic,Digesta,Ibuprofen,PrimeCrest,Capsule,250 mg,164.81,87.56,46.87
+MED023,Cefizen 23,Diabetes,Airleaf,Cefixime,Wellspring Labs,Syrup,500 mg,480.01,276.94,42.31
+MED024,Amorid 24,Cardiac,NutriZen,Amoxicillin,NorthStar Pharma,Injection,100 ml,340.79,164.82,51.64
+MED025,Aziair 25,Gastro,MediCure,Azithromycin,Sunwell Pharma,Inhaler,5 mg,560.61,360.58,35.68
+MED026,Glusure 26,Allergy,Healix,Metformin,ZenBio Labs,Tablet,10 mg,370.37,222.99,39.79
+MED027,Cardaid 27,Vitamins,NovaMed,Insulin Glargine,Apex Remedies,Capsule,20 mg,719.21,409.27,43.09
+MED028,Omefast 28,Respiratory,LifeDrop,Atorvastatin,Metro Health,Syrup,50 mg,46.38,24.12,47.99
+MED029,Pantosafe 29,Hormonal,PulseRx,Amlodipine,Careline Drugs,Injection,100 mg,568.95,345.03,39.36
+MED030,Cetimax 30,Neurology,Digesta,Omeprazole,PrimeCrest,Inhaler,250 mg,246.61,118.90,51.79
+MED031,Monttide 31,Pain Relief,Airleaf,Pantoprazole,Wellspring Labs,Tablet,500 mg,230.06,150.02,34.79
+MED032,Vitawell 32,Antibiotic,NutriZen,Cetirizine,NorthStar Pharma,Capsule,100 ml,53.67,33.10,38.33
+MED033,B12calm 33,Diabetes,MediCure,Montelukast,Sunwell Pharma,Syrup,5 mg,32.10,19.35,39.72
+MED034,Coughflow 34,Cardiac,Healix,Multivitamin,ZenBio Labs,Injection,10 mg,113.89,56.13,50.72
+MED035,Bronmed 35,Gastro,NovaMed,Methylcobalamin,Apex Remedies,Inhaler,20 mg,184.60,102.05,44.72
+MED036,Zinnil 36,Allergy,LifeDrop,Dextromethorphan,Metro Health,Tablet,50 mg,640.04,361.57,43.51
+MED037,Thyrocare 37,Vitamins,PulseRx,Salbutamol,Careline Drugs,Capsule,100 mg,332.65,178.91,46.22
+MED038,Neurorise 38,Respiratory,Digesta,Levothyroxine,PrimeCrest,Syrup,250 mg,68.04,49.36,27.45
+MED039,Calvita 39,Hormonal,Airleaf,Pregabalin,Wellspring Labs,Injection,500 mg,537.49,330.70,38.47
+MED040,Levboost 40,Neurology,NutriZen,Calcium Carbonate,NorthStar Pharma,Inhaler,100 ml,509.94,327.85,35.71
+MED041,Paracure 41,Pain Relief,MediCure,Paracetamol,Sunwell Pharma,Tablet,5 mg,199.72,120.35,39.74
+MED042,Ibuplus 42,Antibiotic,Healix,Ibuprofen,ZenBio Labs,Capsule,10 mg,21.12,14.16,32.95
+MED043,Cefizen 43,Diabetes,NovaMed,Cefixime,Apex Remedies,Syrup,20 mg,36.00,20.27,43.69
+MED044,Amorid 44,Cardiac,LifeDrop,Amoxicillin,Metro Health,Injection,50 mg,67.90,34.39,49.35
+MED045,Aziair 45,Gastro,PulseRx,Azithromycin,Careline Drugs,Inhaler,100 mg,455.67,288.22,36.75
+MED046,Glusure 46,Allergy,Digesta,Metformin,PrimeCrest,Tablet,250 mg,572.34,312.70,45.36
+MED047,Cardaid 47,Vitamins,Airleaf,Insulin Glargine,Wellspring Labs,Capsule,500 mg,408.52,302.50,25.95
+MED048,Omefast 48,Respiratory,NutriZen,Atorvastatin,NorthStar Pharma,Syrup,100 ml,210.61,113.71,46.01
+MED049,Pantosafe 49,Hormonal,MediCure,Amlodipine,Sunwell Pharma,Injection,5 mg,208.07,104.27,49.89
+MED050,Cetimax 50,Neurology,Healix,Omeprazole,ZenBio Labs,Inhaler,10 mg,14.60,8.15,44.18
+MED051,Monttide 51,Pain Relief,NovaMed,Pantoprazole,Apex Remedies,Tablet,20 mg,452.23,278.76,38.36
+MED052,Vitawell 52,Antibiotic,LifeDrop,Cetirizine,Metro Health,Capsule,50 mg,570.61,277.06,51.44
+MED053,B12calm 53,Diabetes,PulseRx,Montelukast,Careline Drugs,Syrup,100 mg,364.23,249.10,31.61
+MED054,Coughflow 54,Cardiac,Digesta,Multivitamin,PrimeCrest,Injection,250 mg,347.03,249.82,28.01
+MED055,Bronmed 55,Gastro,Airleaf,Methylcobalamin,Wellspring Labs,Inhaler,500 mg,476.68,283.19,40.59
+MED056,Zinnil 56,Allergy,NutriZen,Dextromethorphan,NorthStar Pharma,Tablet,100 ml,362.29,209.23,42.25
+MED057,Thyrocare 57,Vitamins,MediCure,Salbutamol,Sunwell Pharma,Capsule,5 mg,440.66,309.57,29.75
+MED058,Neurorise 58,Respiratory,Healix,Levothyroxine,ZenBio Labs,Syrup,10 mg,147.02,73.13,50.26
+MED059,Calvita 59,Hormonal,NovaMed,Pregabalin,Apex Remedies,Injection,20 mg,295.14,176.85,40.08
+MED060,Levboost 60,Neurology,LifeDrop,Calcium Carbonate,Metro Health,Inhaler,50 mg,636.21,363.54,42.86
+MED061,Paracure 61,Pain Relief,PulseRx,Paracetamol,Careline Drugs,Tablet,100 mg,341.96,174.11,49.08
+MED062,Ibuplus 62,Antibiotic,Digesta,Ibuprofen,PrimeCrest,Capsule,250 mg,455.30,308.15,32.32
+MED063,Cefizen 63,Diabetes,Airleaf,Cefixime,Wellspring Labs,Syrup,500 mg,147.95,79.93,45.97
+MED064,Amorid 64,Cardiac,NutriZen,Amoxicillin,NorthStar Pharma,Injection,100 ml,692.96,402.85,41.87
+MED065,Aziair 65,Gastro,MediCure,Azithromycin,Sunwell Pharma,Inhaler,5 mg,747.19,386.69,48.25
+MED066,Glusure 66,Allergy,Healix,Metformin,ZenBio Labs,Tablet,10 mg,315.70,217.70,31.04
+MED067,Cardaid 67,Vitamins,NovaMed,Insulin Glargine,Apex Remedies,Capsule,20 mg,72.49,51.12,29.48
+MED068,Omefast 68,Respiratory,LifeDrop,Atorvastatin,Metro Health,Syrup,50 mg,297.26,159.47,46.35
+MED069,Pantosafe 69,Hormonal,PulseRx,Amlodipine,Careline Drugs,Injection,100 mg,571.66,311.92,45.44
+MED070,Cetimax 70,Neurology,Digesta,Omeprazole,PrimeCrest,Inhaler,250 mg,332.84,199.84,39.96
+MED071,Monttide 71,Pain Relief,Airleaf,Pantoprazole,Wellspring Labs,Tablet,500 mg,549.44,290.44,47.14
+MED072,Vitawell 72,Antibiotic,NutriZen,Cetirizine,NorthStar Pharma,Capsule,100 ml,334.32,162.51,51.39
+MED073,B12calm 73,Diabetes,MediCure,Montelukast,Sunwell Pharma,Syrup,5 mg,197.26,134.16,31.99
+MED074,Coughflow 74,Cardiac,Healix,Multivitamin,ZenBio Labs,Injection,10 mg,117.42,67.54,42.48
+MED075,Bronmed 75,Gastro,NovaMed,Methylcobalamin,Apex Remedies,Inhaler,20 mg,537.50,381.38,29.05
+MED076,Zinnil 76,Allergy,LifeDrop,Dextromethorphan,Metro Health,Tablet,50 mg,153.56,111.49,27.40
+MED077,Thyrocare 77,Vitamins,PulseRx,Salbutamol,Careline Drugs,Capsule,100 mg,529.20,296.01,44.06
+MED078,Neurorise 78,Respiratory,Digesta,Levothyroxine,PrimeCrest,Syrup,250 mg,411.56,231.94,43.64
+MED079,Calvita 79,Hormonal,Airleaf,Pregabalin,Wellspring Labs,Injection,500 mg,425.78,240.66,43.48
+MED080,Levboost 80,Neurology,NutriZen,Calcium Carbonate,NorthStar Pharma,Inhaler,100 ml,339.54,163.82,51.75
+MED081,Paracure 81,Pain Relief,MediCure,Paracetamol,Sunwell Pharma,Tablet,5 mg,410.63,243.04,40.81
+MED082,Ibuplus 82,Antibiotic,Healix,Ibuprofen,ZenBio Labs,Capsule,10 mg,157.06,79.15,49.61
+MED083,Cefizen 83,Diabetes,NovaMed,Cefixime,Apex Remedies,Syrup,20 mg,67.79,34.01,49.83
+MED084,Amorid 84,Cardiac,LifeDrop,Amoxicillin,Metro Health,Injection,50 mg,484.81,236.35,51.25
+MED085,Aziair 85,Gastro,PulseRx,Azithromycin,Careline Drugs,Inhaler,100 mg,490.37,311.38,36.50
+MED086,Glusure 86,Allergy,Digesta,Metformin,PrimeCrest,Tablet,250 mg,717.06,359.89,49.81
+MED087,Cardaid 87,Vitamins,Airleaf,Insulin Glargine,Wellspring Labs,Capsule,500 mg,308.85,194.25,37.11
+MED088,Omefast 88,Respiratory,NutriZen,Atorvastatin,NorthStar Pharma,Syrup,100 ml,517.00,348.35,32.62
+MED089,Pantosafe 89,Hormonal,MediCure,Amlodipine,Sunwell Pharma,Injection,5 mg,546.01,354.10,35.15
+MED090,Cetimax 90,Neurology,Healix,Omeprazole,ZenBio Labs,Inhaler,10 mg,475.23,232.99,50.97
+MED091,Monttide 91,Pain Relief,NovaMed,Pantoprazole,Apex Remedies,Tablet,20 mg,404.81,239.74,40.78
+MED092,Vitawell 92,Antibiotic,LifeDrop,Cetirizine,Metro Health,Capsule,50 mg,139.25,69.17,50.33
+MED093,B12calm 93,Diabetes,PulseRx,Montelukast,Careline Drugs,Syrup,100 mg,760.32,386.63,49.15
+MED094,Coughflow 94,Cardiac,Digesta,Multivitamin,PrimeCrest,Injection,250 mg,56.51,38.92,31.13
+MED095,Bronmed 95,Gastro,Airleaf,Methylcobalamin,Wellspring Labs,Inhaler,500 mg,706.42,367.85,47.93
+MED096,Zinnil 96,Allergy,NutriZen,Dextromethorphan,NorthStar Pharma,Tablet,100 ml,207.64,112.07,46.03
+MED097,Thyrocare 97,Vitamins,MediCure,Salbutamol,Sunwell Pharma,Capsule,5 mg,305.95,196.66,35.72
+MED098,Neurorise 98,Respiratory,Healix,Levothyroxine,ZenBio Labs,Syrup,10 mg,672.35,323.33,51.91
+MED099,Calvita 99,Hormonal,NovaMed,Pregabalin,Apex Remedies,Injection,20 mg,45.15,21.51,52.36
+MED100,Levboost 100,Neurology,LifeDrop,Calcium Carbonate,Metro Health,Inhaler,50 mg,61.74,37.94,38.55

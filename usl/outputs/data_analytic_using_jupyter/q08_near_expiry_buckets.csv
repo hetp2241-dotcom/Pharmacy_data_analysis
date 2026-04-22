@@ -1,0 +1,4 @@
+expiry_bucket,batch_count
+0-30 days,12
+31-60 days,11
+61-90 days,18

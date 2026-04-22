@@ -1,0 +1,5 @@
+batch_no,medicine_id,purchase_date,expiry_date,opening_stock,stock_in_hand,unit_cost,supplier_name,inventory_value,days_to_expiry,expiry_bucket,medicine_name,category
+MED079-B03,MED079,2025-06-03,2025-11-22,826,134,240.66,Prime MedSupply,32248.44,-151,Expired,Calvita 79,Hormonal
+MED059-B02,MED059,2025-04-11,2025-10-13,856,77,176.85,Wellroute Healthcare,13617.45,-191,Expired,Calvita 59,Hormonal
+MED044-B04,MED044,2025-07-14,2025-12-25,618,57,34.39,CareHub Distributors,1960.23,-118,Expired,Amorid 44,Cardiac
+MED039-B02,MED039,2025-08-14,2026-04-14,716,25,330.7,Wellroute Healthcare,8267.5,-8,Expired,Calvita 39,Hormonal

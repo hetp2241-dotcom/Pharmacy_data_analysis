@@ -1,0 +1,26 @@
+batch_no,medicine_id,medicine_name,category,supplier_name,purchase_date,expiry_date,days_to_expiry,expiry_bucket,stock_in_hand,avg_daily_units_sold,projected_units_before_expiry,estimated_units_at_risk,estimated_expiry_risk_value
+MED029-B03,MED029,Pantosafe 29,Hormonal,Wellroute Healthcare,2025-07-12,2026-06-20,59,31-60 days,411,2.71,159.89,251.11,86640.48
+MED018-B05,MED018,Neurorise 18,Respiratory,MediBridge Supply,2025-10-08,2026-05-18,26,0-30 days,256,4.55,118.30,137.70,51959.72
+MED059-B04,MED059,Calvita 59,Hormonal,Wellroute Healthcare,2025-12-01,2026-07-12,81,61-90 days,554,3.98,322.38,231.62,40962.00
+MED009-B03,MED009,Pantosafe 9,Hormonal,CareHub Distributors,2025-07-09,2026-06-13,52,31-60 days,403,3.94,204.88,198.12,33967.67
+MED079-B03,MED079,Calvita 79,Hormonal,Prime MedSupply,2025-06-03,2025-11-22,-151,Expired,134,2.92,0.00,134.00,32248.44
+MED059-B02,MED059,Calvita 59,Hormonal,Wellroute Healthcare,2025-04-11,2025-10-13,-191,Expired,77,3.98,0.00,77.00,13617.45
+MED039-B02,MED039,Calvita 39,Hormonal,Wellroute Healthcare,2025-08-14,2026-04-14,-8,Expired,25,3.79,0.00,25.00,8267.50
+MED044-B04,MED044,Amorid 44,Cardiac,CareHub Distributors,2025-07-14,2025-12-25,-118,Expired,57,5.69,0.00,57.00,1960.23
+MED099-B01,MED099,Calvita 99,Hormonal,CareHub Distributors,2025-11-08,2026-04-26,4,0-30 days,69,3.22,12.88,56.12,1207.14
+MED001-B04,MED001,Paracure 1,Pain Relief,Apex Wholesale,2025-07-29,2026-01-19,-93,Expired,0,4.77,0.00,0.00,0.00
+MED002-B02,MED002,Ibuplus 2,Antibiotic,Apex Wholesale,2025-06-01,2026-02-21,-60,Expired,0,5.58,0.00,0.00,0.00
+MED004-B01,MED004,Amorid 4,Cardiac,MediBridge Supply,2025-05-21,2026-02-04,-77,Expired,0,3.58,0.00,0.00,0.00
+MED006-B02,MED006,Glusure 6,Allergy,Apex Wholesale,2025-07-02,2026-04-08,-14,Expired,0,3.58,0.00,0.00,0.00
+MED007-B03,MED007,Cardaid 7,Vitamins,Urban Pharma Chain,2025-06-25,2026-01-24,-88,Expired,0,5.14,0.00,0.00,0.00
+MED008-B02,MED008,Omefast 8,Respiratory,CareHub Distributors,2025-04-14,2026-01-31,-81,Expired,0,3.57,0.00,0.00,0.00
+MED009-B01,MED009,Pantosafe 9,Hormonal,Prime MedSupply,2025-05-08,2026-02-17,-64,Expired,0,3.94,0.00,0.00,0.00
+MED009-B02,MED009,Pantosafe 9,Hormonal,CareHub Distributors,2025-08-08,2026-03-29,-24,Expired,0,3.94,0.00,0.00,0.00
+MED012-B01,MED012,Vitawell 12,Antibiotic,CareHub Distributors,2025-04-21,2025-11-24,-149,Expired,0,4.84,0.00,0.00,0.00
+MED012-B03,MED012,Vitawell 12,Antibiotic,Wellroute Healthcare,2025-06-04,2025-12-24,-119,Expired,0,4.84,0.00,0.00,0.00
+MED013-B03,MED013,B12calm 13,Diabetes,Prime MedSupply,2025-07-20,2026-04-21,-1,Expired,0,3.12,0.00,0.00,0.00
+MED016-B04,MED016,Zinnil 16,Allergy,Apex Wholesale,2025-03-27,2025-11-04,-169,Expired,0,2.48,0.00,0.00,0.00
+MED017-B03,MED017,Thyrocare 17,Vitamins,Wellroute Healthcare,2025-06-01,2026-04-17,-5,Expired,0,3.92,0.00,0.00,0.00
+MED018-B03,MED018,Neurorise 18,Respiratory,Wellroute Healthcare,2025-03-25,2026-02-19,-62,Expired,0,4.55,0.00,0.00,0.00
+MED020-B03,MED020,Levboost 20,Neurology,Apex Wholesale,2025-06-09,2026-03-20,-33,Expired,0,3.68,0.00,0.00,0.00
+MED025-B03,MED025,Aziair 25,Gastro,CareHub Distributors,2025-06-04,2026-01-20,-92,Expired,0,3.37,0.00,0.00,0.00

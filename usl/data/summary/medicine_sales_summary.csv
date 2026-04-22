@@ -1,0 +1,101 @@
+medicine_id,medicine_name,category,brand,transaction_count,quantity_sold,gross_sales,average_sale_value
+MED027,Cardaid 27,Vitamins,NovaMed,442,1920,1337218.46,3025.38
+MED093,B12calm 93,Diabetes,PulseRx,394,1789,1312232.13,3330.54
+MED095,Bronmed 95,Gastro,Airleaf,393,1779,1209636.29,3077.95
+MED052,Vitawell 52,Antibiotic,LifeDrop,452,2092,1152288.10,2549.31
+MED002,Ibuplus 2,Antibiotic,Healix,456,2037,1088390.78,2386.82
+MED005,Aziair 5,Gastro,PulseRx,329,1445,1082649.24,3290.73
+MED007,Cardaid 7,Vitamins,Airleaf,417,1877,1023033.50,2453.32
+MED018,Neurorise 18,Respiratory,Healix,366,1662,961647.59,2627.45
+MED065,Aziair 65,Gastro,MediCure,302,1338,961362.54,3183.32
+MED081,Paracure 81,Pain Relief,MediCure,525,2411,953182.16,1815.59
+MED051,Monttide 51,Pain Relief,NovaMed,466,2083,905110.11,1942.30
+MED064,Amorid 64,Cardiac,NutriZen,300,1361,904935.35,3016.45
+MED015,Bronmed 15,Gastro,Airleaf,347,1536,867800.34,2500.87
+MED098,Neurorise 98,Respiratory,Healix,285,1317,857323.61,3008.15
+MED004,Amorid 4,Cardiac,LifeDrop,294,1305,820156.67,2789.65
+MED045,Aziair 45,Gastro,PulseRx,387,1812,791940.55,2046.36
+MED086,Glusure 86,Allergy,Digesta,245,1102,760872.28,3105.60
+MED091,Monttide 91,Pain Relief,NovaMed,418,1942,758753.98,1815.20
+MED089,Pantosafe 89,Hormonal,MediCure,308,1416,744451.40,2417.05
+MED006,Glusure 6,Allergy,Digesta,299,1305,740060.12,2475.12
+MED062,Ibuplus 62,Antibiotic,Digesta,362,1656,729848.35,2016.16
+MED036,Zinnil 36,Allergy,LifeDrop,274,1167,725886.65,2649.22
+MED060,Levboost 60,Neurology,LifeDrop,264,1168,713465.73,2702.52
+MED039,Calvita 39,Hormonal,Airleaf,302,1383,709813.26,2350.38
+MED085,Aziair 85,Gastro,PulseRx,324,1460,694389.93,2143.18
+MED023,Cefizen 23,Diabetes,Airleaf,349,1457,676988.82,1939.80
+MED001,Paracure 1,Pain Relief,MediCure,389,1740,673207.60,1730.61
+MED025,Aziair 25,Gastro,MediCure,273,1231,660816.02,2420.57
+MED084,Amorid 84,Cardiac,LifeDrop,295,1411,659109.68,2234.27
+MED071,Monttide 71,Pain Relief,Airleaf,275,1237,655603.33,2384.01
+MED017,Thyrocare 17,Vitamins,MediCure,318,1432,608158.09,1912.45
+MED056,Zinnil 56,Allergy,NutriZen,377,1709,597951.59,1586.08
+MED040,Levboost 40,Neurology,NutriZen,266,1217,595883.93,2240.17
+MED078,Neurorise 78,Respiratory,Digesta,345,1489,593473.84,1720.21
+MED090,Cetimax 90,Neurology,Healix,271,1270,580253.15,2141.16
+MED069,Pantosafe 69,Hormonal,PulseRx,255,1060,579698.85,2273.33
+MED046,Glusure 46,Allergy,Digesta,233,1051,577131.36,2476.96
+MED013,B12calm 13,Diabetes,PulseRx,256,1139,571818.36,2233.67
+MED029,Pantosafe 29,Hormonal,PulseRx,225,988,541870.86,2408.31
+MED061,Paracure 61,Pain Relief,PulseRx,366,1643,540160.89,1475.85
+MED037,Thyrocare 37,Vitamins,PulseRx,372,1675,535111.47,1438.47
+MED075,Bronmed 75,Gastro,NovaMed,227,998,517863.95,2281.34
+MED054,Coughflow 54,Cardiac,Digesta,361,1549,515977.34,1429.30
+MED055,Bronmed 55,Gastro,Airleaf,250,1114,514646.08,2058.58
+MED012,Vitawell 12,Antibiotic,LifeDrop,377,1765,504927.84,1339.33
+MED011,Monttide 11,Pain Relief,NovaMed,249,1105,491411.05,1973.54
+MED053,B12calm 53,Diabetes,PulseRx,303,1364,476836.41,1573.72
+MED080,Levboost 80,Neurology,NutriZen,314,1372,450874.73,1435.91
+MED066,Glusure 66,Allergy,Healix,331,1470,447547.02,1352.11
+MED070,Cetimax 70,Neurology,Digesta,312,1373,440546.18,1412.01
+MED079,Calvita 79,Hormonal,Airleaf,240,1065,439066.66,1829.44
+MED088,Omefast 88,Respiratory,NutriZen,184,873,436654.54,2373.12
+MED068,Omefast 68,Respiratory,LifeDrop,319,1462,420256.61,1317.42
+MED024,Amorid 24,Cardiac,NutriZen,282,1265,417113.48,1479.13
+MED059,Calvita 59,Hormonal,NovaMed,328,1451,412145.86,1256.54
+MED077,Thyrocare 77,Vitamins,PulseRx,174,794,402292.03,2312.02
+MED026,Glusure 26,Allergy,Healix,238,1104,391638.59,1645.54
+MED030,Cetimax 30,Neurology,Digesta,347,1615,385792.85,1111.79
+MED019,Calvita 19,Hormonal,NovaMed,148,652,362102.44,2446.64
+MED057,Thyrocare 57,Vitamins,MediCure,188,837,358907.62,1909.08
+MED097,Thyrocare 97,Vitamins,MediCure,274,1204,353363.40,1289.65
+MED087,Cardaid 87,Vitamins,Airleaf,266,1166,344441.83,1294.89
+MED047,Cardaid 47,Vitamins,Airleaf,208,863,338126.43,1625.61
+MED096,Zinnil 96,Allergy,NutriZen,357,1664,332139.50,930.36
+MED048,Omefast 48,Respiratory,NutriZen,359,1618,329463.33,917.73
+MED009,Pantosafe 9,Hormonal,MediCure,310,1439,324248.76,1045.96
+MED041,Paracure 41,Pain Relief,MediCure,362,1587,303765.84,839.13
+MED031,Monttide 31,Pain Relief,Airleaf,307,1361,302641.70,985.80
+MED072,Vitawell 72,Antibiotic,NutriZen,214,941,300605.21,1404.70
+MED092,Vitawell 92,Antibiotic,LifeDrop,488,2217,297417.87,609.46
+MED021,Paracure 21,Pain Relief,PulseRx,353,1621,289758.97,820.85
+MED010,Cetimax 10,Neurology,Healix,212,958,270155.03,1274.32
+MED014,Coughflow 14,Cardiac,Digesta,155,693,236860.96,1528.14
+MED003,Cefizen 3,Diabetes,NovaMed,187,847,221211.69,1182.95
+MED063,Cefizen 63,Diabetes,Airleaf,329,1508,214605.90,652.30
+MED082,Ibuplus 82,Antibiotic,Healix,297,1271,191739.09,645.59
+MED022,Ibuplus 22,Antibiotic,Digesta,258,1196,190300.44,737.60
+MED020,Levboost 20,Neurology,LifeDrop,311,1343,190175.89,611.50
+MED058,Neurorise 58,Respiratory,Healix,286,1260,178909.79,625.56
+MED035,Bronmed 35,Gastro,NovaMed,206,997,177585.21,862.06
+MED073,B12calm 73,Diabetes,MediCure,195,822,158410.75,812.36
+MED008,Omefast 8,Respiratory,NutriZen,291,1302,150170.03,516.05
+MED083,Cefizen 83,Diabetes,NovaMed,479,2094,137203.80,286.44
+MED049,Pantosafe 49,Hormonal,MediCure,153,684,137113.41,896.17
+MED044,Amorid 44,Cardiac,LifeDrop,464,2078,135774.22,292.62
+MED074,Coughflow 74,Cardiac,Healix,253,1091,122551.99,484.40
+MED076,Zinnil 76,Allergy,LifeDrop,173,776,115557.52,667.96
+MED034,Coughflow 34,Cardiac,Healix,227,1029,112876.49,497.25
+MED067,Cardaid 67,Vitamins,NovaMed,289,1303,90395.56,312.79
+MED028,Omefast 28,Respiratory,LifeDrop,412,1963,87675.91,212.81
+MED038,Neurorise 38,Respiratory,Digesta,243,1112,73161.06,301.07
+MED100,Levboost 100,Neurology,LifeDrop,220,1027,60830.91,276.50
+MED032,Vitawell 32,Antibiotic,NutriZen,244,1108,57499.81,235.65
+MED016,Zinnil 16,Allergy,NutriZen,197,905,51141.97,259.60
+MED099,Calvita 99,Hormonal,NovaMed,246,1174,50815.85,206.57
+MED043,Cefizen 43,Diabetes,NovaMed,308,1311,45313.82,147.12
+MED094,Coughflow 94,Cardiac,Digesta,164,719,39394.12,240.21
+MED033,B12calm 33,Diabetes,MediCure,265,1172,36162.30,136.46
+MED050,Cetimax 50,Neurology,Healix,269,1199,16853.00,62.65
+MED042,Ibuplus 42,Antibiotic,Healix,181,809,16427.91,90.76
